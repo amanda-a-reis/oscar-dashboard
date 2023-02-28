@@ -15,10 +15,9 @@ export default function Home ({ data }): ReactElement {
 }
 
 export async function getStaticProps (): Promise<any> {
-  const apiKey = process.env.API_KEY
   const url = process.env.URL
 
-  const resultsJSON = await axios.get(`${url}/api/oscar/votes/${apiKey}`)
+  const resultsJSON = await axios.get(`${url}/api/oscar/votes`)
 
   const resultsByCategory = resultsJSON.data.results
   const numOfVotes = resultsJSON.data.numOfVotes
@@ -49,10 +48,6 @@ export async function getStaticProps (): Promise<any> {
   results.push(totalVotes)
 
   const data = {
-    environment: {
-      apiKey,
-      url
-    },
     dataMovies: {
       labels,
       results,

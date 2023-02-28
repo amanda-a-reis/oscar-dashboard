@@ -1,8 +1,8 @@
 import type { NextApiRequest, NextApiResponse } from 'next'
-import MongoDB from '../../../../mongodb/config'
-import { UserVote, type IUserVote } from '../../../../mongodb/vote'
-import { labels } from '../../../../movies/dataProcessing'
-import titles from '../../../../movies/titles.json'
+import MongoDB from '../../../mongodb/config'
+import { UserVote, type IUserVote } from '../../../mongodb/vote'
+import { labels } from '../../../movies/dataProcessing'
+import titles from '../../../movies/titles.json'
 
 MongoDB.instance.connect()
 
@@ -93,16 +93,13 @@ function filterByCategory (data): any {
 }
 
 function countVotes (data): any {
-  const results = Array.from(
-    { length: categories.length },
-    (movie, index) => {
-      const results = {
-        category: categories[index],
-        votes: []
-      }
-      return results
+  const results = Array.from({ length: categories.length }, (movie, index) => {
+    const results = {
+      category: categories[index],
+      votes: []
     }
-  )
+    return results
+  })
 
   for (let i = 0; i <= categories.length - 1; i++) {
     const votes = countVotesByMovie(data[i].movies, i)
@@ -118,24 +115,18 @@ export default async function handler (
 ): Promise<void> {
   const { method } = req
 
-  const { id } = req.query
-
-  if (id === process.env.API_KEY) {
-    switch (method) {
-      case 'GET': {
-        const all = await getAllVotes()
-        const resultsByCategory = filterByCategory(all)
-        const results = countVotes(resultsByCategory)
-        const numOfVotes = all.length
-        const total = countAllVotes(all)
-        res.status(200).json({ total, results, numOfVotes })
-        break
-      }
-      default:
-        res.setHeader('Allow', ['GET'])
-        res.status(405).end(`Method ${method} Not Allowed`)
+  switch (method) {
+    case 'GET': {
+      const all = await getAllVotes()
+      const resultsByCategory = filterByCategory(all)
+      const results = countVotes(resultsByCategory)
+      const numOfVotes = all.length
+      const total = countAllVotes(all)
+      res.status(200).json({ total, results, numOfVotes })
+      break
     }
-  } else {
-    res.status(401).end('Sorry, you do not have access.')
+    default:
+      res.setHeader('Allow', ['GET'])
+      res.status(405).end(`Method ${method} Not Allowed`)
   }
 }
