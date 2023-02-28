@@ -7,7 +7,15 @@
   justify-content: flex-start;
   width: 100vw;
   height: 100vh;
-  background-color: rgba(47, 46, 45, 0.937);
+
+  @media screen and (max-width: $small-screen) {
+    height: auto;
+    margin-bottom: 200px;
+  }
+
+  @media screen and (max-width: 414px) {
+    margin-bottom: 200px;
+  }
 }
 
 .movieTitle {
@@ -17,7 +25,15 @@
   text-align: center;
   color: white;
   margin: 0;
-  margin-top: 50px;
+  margin-top: 20px;
+
+  @media screen and (max-width: $small-screen) {
+    font-size: 4vw;
+  }
+
+  @media screen and (max-width: 414px) {
+    font-size: 5vw;
+  }
 }
 
 .buttonContainer {
@@ -27,12 +43,22 @@
   align-items: center;
   font-family: $principal-font;
   color: black;
-  width: 100%;
+  width: 100vw;
   height: 70px;
   position: fixed;
   background-color: white;
   bottom: 0;
   margin: 0;
+
+  @media screen and (max-width: $small-screen) {
+    width: 100vw;
+    height: 50px;
+  }
+
+  @media screen and (max-width: 414px) {
+    width: 100%;
+    height: 50px;
+  }
 }
 
 .categoryButton {
@@ -43,6 +69,14 @@
   color: black;
   font-size: 30px;
   font-weight: $bold;
+
+  @media screen and (max-width: $small-screen) {
+    font-size: 2vw;
+  }
+
+  @media screen and (max-width: 414px) {
+    font-size: 4.5vw;
+  }
 }
 
 .categoryText {
@@ -52,4 +86,149 @@
   text-align: center;
   font-weight: $bold;
   margin: 0;
+
+  @media screen and (max-width: $small-screen) {
+    font-size: 2vw;
+  }
+
+  @media screen and (max-width: 414px) {
+    font-size: 5vw;
+  }
+}
+
+.totalContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  font-family: $principal-font;
+
+  @media screen and (max-width: 414px) {
+    width: 100vw;
+    height: 60px;
+  }
+}
+
+.votesContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+  height: 10%;
+  font-family: $principal-font;
+  margin-top: 30px;
+}
+
+.totalTitle {
+  color: white;
+  font-size: 1.5vw;
+  text-align: center;
+  margin-right: 10px;
+
+  @media screen and (max-width: 414px) {
+    font-size: 5vw;
+  }
+}
+
+.total {
+  background-color: white;
+  color: black;
+  font-size: 1.5vw;
+  font-weight: $bold;
+  padding-left: 10px;
+  padding-right: 15px;
+  border-radius: 4px;
+
+  @media screen and (max-width: $small-screen) {
+    font-size: 2vw;
+  }
+
+  @media screen and (max-width: 414px) {
+    width: 50vw;
+    height: auto;
+    font-size: 5vw;
+    text-align: center;
+  }
+}
+
+.dataContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100vw;
+  height: auto;
+  padding-left: 50px;
+  padding-right: 20px;
+
+  @media screen and (max-width: $small-screen) {
+    flex-direction: column;
+  }
+}
+
+.bar {
+  width: 75%;
+  height: auto;
+
+  @media screen and (max-width: $small-screen) {
+    width: 100vw;
+    height: 55vw;
+    margin-right: 70px;
+    margin-top: 100px;
+  }
+
+  @media screen and (max-width: 414px) {
+    display: none;
+  }
+}
+
+.percentsContainer {
+  width: 30%;
+  height: auto;
+  margin-left: 50px;
+  border: 2px solid white;
+
+  @media screen and (max-width: $small-screen) {
+    width: 100vw;
+    height: auto;
+    margin-right: 70px;
+  }
+
+  @media screen and (max-width: 414px) {
+    margin-top: 50px;
+  }
+}
+
+.percentContainer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  border-bottom: 1px solid white;
+  border-top: 1px solid white;
+}
+
+.percentMovie {
+  width: 80%;
+  color: white;
+  font-size: 12px;
+  margin: 0;
+  padding: 10px;
+  font-family: $principal-font;
+}
+
+.percentValue {
+  width: 20%;
+  color: rgb(209, 208, 208);
+  font-weight: $bold;
+  background-color: rgb(37, 37, 37);
+  padding-left: 10px;
+  text-align: center;
+  font-size: 12px;
+  border-left: 2px solid white;
+  margin: 0;
+  padding: 10px;
+  font-family: $principal-font;
 }

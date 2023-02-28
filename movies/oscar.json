@@ -73,10 +73,6 @@
       "categoryName":"Melhor Atriz",
       "movies":[
          {
-            "titlePT":"Michelle Yeoh - Tudo em Todo o Lugar Ao Mesmo Tempo",
-            "image":"https://m.media-amazon.com/images/M/MV5BMTg0NTI0NDkzOF5BMl5BanBnXkFtZTcwMjYwMTIwNw@@._V1_Ratio0.7273_AL_.jpg"
-         },     
-         {
             "titlePT":"Andrea Riseborough - To Leslie",
             "image":"https://m.media-amazon.com/images/M/MV5BMTU5MTUzNDAwN15BMl5BanBnXkFtZTcwMjA0NjcyNw@@._V1_Ratio0.7273_AL_.jpg"
          },
@@ -84,6 +80,10 @@
             "titlePT":"Michelle Williams - Fabelmans",
             "image":"https://m.media-amazon.com/images/M/MV5BMjExNjY5NDY0MV5BMl5BanBnXkFtZTgwNjQ1Mjg1MTI@._V1_Ratio0.7273_AL_.jpg"
          },
+         {
+            "titlePT":"Michelle Yeoh - Tudo em Todo o Lugar Ao Mesmo Tempo",
+            "image":"https://m.media-amazon.com/images/M/MV5BMTg0NTI0NDkzOF5BMl5BanBnXkFtZTcwMjYwMTIwNw@@._V1_Ratio0.7273_AL_.jpg"
+         },     
          {
             "titlePT":"Cate Blanchett - Tár",
             "image":"https://m.media-amazon.com/images/M/MV5BMTc1MDI0MDg1NV5BMl5BanBnXkFtZTgwMDM3OTAzMTE@._V1_Ratio0.7273_AL_.jpg"
@@ -224,17 +224,17 @@
        "categoryName":"Melhor Roteiro Original",
        "movies":[
           {
-             "titlePT":"Tudo em Todo o Lugar Ao Mesmo Tempo",
-             "image":"https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_Ratio0.7027_AL_.jpg"
-          },
-          {
              "titlePT":"Os Banshees de Inisherin",
              "image":"https://m.media-amazon.com/images/M/MV5BM2NlZDI0ZDktNTg5OS00ZjQ1LWI4MDEtN2I0MDE5NWRiNzA4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Triângulo da Tristeza",
-             "image":"https://m.media-amazon.com/images/M/MV5BNDRiZjc0ZDMtMjhlYi00ZjAzLTg0MDQtZDI2NGEyYTBlN2M2XkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_Ratio0.6757_AL_.jpg"
-          },
+            },
+            {
+               "titlePT":"Triângulo da Tristeza",
+               "image":"https://m.media-amazon.com/images/M/MV5BNDRiZjc0ZDMtMjhlYi00ZjAzLTg0MDQtZDI2NGEyYTBlN2M2XkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_Ratio0.6757_AL_.jpg"
+            },
+            {
+               "titlePT":"Tudo em Todo o Lugar Ao Mesmo Tempo",
+               "image":"https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_Ratio0.7027_AL_.jpg"
+            },
           {
              "titlePT":"Os Fabelmans",
              "image":"https://m.media-amazon.com/images/M/MV5BZGM1MzczNmQtMjBmYS00NTRhLWI0MzctNTFkZDc4OGUyODdjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_Ratio0.6757_AL_.jpg"
@@ -375,17 +375,17 @@
        "categoryName":"Melhor Maquiagem e Penteados",
        "movies":[
           {
-             "titlePT":"Pantera Negra: Wakanda Para Sempre",
-             "image":"https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
              "titlePT":"Nada de Novo no Front",
              "image":"https://m.media-amazon.com/images/M/MV5BMzM4ZDJhYjYtZGY5Ny00NTk0LWI4ZTYtNjczZDFiMGI2ZjEzXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Elvis",
-             "image":"https://m.media-amazon.com/images/M/MV5BYzMzNTJjYmMtZTkxNS00MjI4LWI3YmQtOTQ4MDZjZDJlZjQyXkEyXkFqcGdeQXVyNjc0NzQzNTM@._V1_Ratio0.6757_AL_.jpg"
-          },
+            },
+            {
+               "titlePT":"Elvis",
+               "image":"https://m.media-amazon.com/images/M/MV5BYzMzNTJjYmMtZTkxNS00MjI4LWI3YmQtOTQ4MDZjZDJlZjQyXkEyXkFqcGdeQXVyNjc0NzQzNTM@._V1_Ratio0.6757_AL_.jpg"
+            },
+            {
+               "titlePT":"Pantera Negra: Wakanda Para Sempre",
+               "image":"https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6757_AL_.jpg"
+            },
           {
              "titlePT":"A Baleia",
              "image":"https://m.media-amazon.com/images/M/MV5BZDQ4Njg4YTctNGZkYi00NWU1LWI4OTYtNmNjOWMyMjI1NWYzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_Ratio0.7027_AL_.jpg"
