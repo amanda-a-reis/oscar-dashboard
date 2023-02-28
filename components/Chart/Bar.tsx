@@ -39,7 +39,6 @@ interface MoviesData {
 }
 
 export function BarChart ({ labels, votesResult }: MoviesData): ReactElement {
-  console.log(votesResult)
   const data = {
     labels,
     datasets: [

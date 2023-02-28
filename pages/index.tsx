@@ -1,6 +1,10 @@
 import type { ReactElement } from 'react'
 import Dashboard from '../components/Dashboard/Dashboard'
 import style from '../styles/home/home.module.scss'
+import axios from 'axios'
+
+import { labels } from '../movies/dataProcessing'
+import titles from '../movies/titles.json'
 
 export default function Home ({ data }): ReactElement {
   return (
@@ -14,20 +18,35 @@ export async function getStaticProps (): Promise<any> {
   const apiKey = process.env.API_KEY
   const url = process.env.URL
 
-  const labels = [
-    {
-      categoryName: 'Movies  1',
-      movies: ['Movies 1', 'Movies 2']
-    },
-    {
-      categoryName: 'Movies 2',
-      movies: ['Movies 1', 'Movies 2']
-    }
-  ]
-  const results = [
-    [5, 2],
-    [2, 5]
-  ]
+  const resultsJSON = await axios.get(`${url}/api/oscar/votes/${apiKey}`)
+
+  const resultsByCategory = resultsJSON.data.results
+  const numOfVotes = resultsJSON.data.numOfVotes
+  const totals = resultsJSON.data.total
+
+  const results = Array.from(
+    { length: resultsByCategory.length },
+    () => []
+  )
+
+  for (let i = 0; i <= resultsByCategory.length - 1; i++) {
+    resultsByCategory[i].votes.map((vote) => {
+      results[i].push(vote.votes)
+      return true
+    })
+  }
+
+  const totalVotes = totals.map(total => {
+    return total.votes
+  })
+
+  const allVotes = {
+    categoryName: 'Resultado Geral dos Filmes',
+    movies: titles
+  }
+
+  labels.push(allVotes)
+  results.push(totalVotes)
 
   const data = {
     environment: {
@@ -36,7 +55,8 @@ export async function getStaticProps (): Promise<any> {
     },
     dataMovies: {
       labels,
-      results
+      results,
+      numOfVotes
     }
   }
 
