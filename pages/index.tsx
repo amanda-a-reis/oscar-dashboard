@@ -1,5 +1,5 @@
 import type { ReactElement } from 'react'
-import Dashboard from '../components/Dashboard/Dashboard'
+// import Dashboard from '../components/Dashboard/Dashboard'
 import style from '../styles/home/home.module.scss'
 // import axios from 'axios'
 
@@ -9,7 +9,7 @@ import { labels } from '../movies/dataProcessing'
 export default function Home ({ data }): ReactElement {
   return (
     <div className={style.container}>
-      <Dashboard data={data}/>
+      {/* <Dashboard data={data}/> */}
     </div>
   )
 }
