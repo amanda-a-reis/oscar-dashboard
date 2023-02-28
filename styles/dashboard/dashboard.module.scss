@@ -1,0 +1,55 @@
+@import "../pattern/index.scss";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(47, 46, 45, 0.937);
+}
+
+.movieTitle {
+  width: 100%;
+  height: auto;
+  font-family: $principal-font;
+  text-align: center;
+  color: white;
+  margin: 0;
+  margin-top: 50px;
+}
+
+.buttonContainer {
+  z-index: 10;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-family: $principal-font;
+  color: black;
+  width: 100%;
+  height: 70px;
+  position: fixed;
+  background-color: white;
+  bottom: 0;
+  margin: 0;
+}
+
+.categoryButton {
+  width: 33%;
+  height: 100%;
+  background-color: transparent;
+  border: none;
+  color: black;
+  font-size: 30px;
+  font-weight: $bold;
+}
+
+.categoryText {
+  width: 34%;
+  height: auto;
+  font-size: 35px;
+  text-align: center;
+  font-weight: $bold;
+  margin: 0;
+}
