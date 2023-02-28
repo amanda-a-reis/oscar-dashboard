@@ -1,51 +1,54 @@
 import type { ReactElement } from 'react'
-import Dashboard from '../components/Dashboard/Dashboard'
+// import Dashboard from '../components/Dashboard/Dashboard'
 import style from '../styles/home/home.module.scss'
-import axios from 'axios'
+// import axios from 'axios'
 
 import { labels } from '../movies/dataProcessing'
-import titles from '../movies/titles.json'
+// import titles from '../movies/titles.json'
 
 export default function Home ({ data }): ReactElement {
   return (
     <div className={style.container}>
-      <Dashboard data={data}/>
+      {/* <Dashboard data={data}/> */}
     </div>
   )
 }
 
 export async function getStaticProps (): Promise<any> {
-  const url = process.env.URL
+  // const url = process.env.URL
 
-  const resultsJSON = await axios.get(`${url}/api/oscar/votes`)
+  // const resultsJSON = await axios.get(`${url}/api/oscar/votes`)
 
-  const resultsByCategory = resultsJSON.data.results
-  const numOfVotes = resultsJSON.data.numOfVotes
-  const totals = resultsJSON.data.total
+  // const resultsByCategory = resultsJSON.data.results
+  // const numOfVotes = resultsJSON.data.numOfVotes
+  // const totals = resultsJSON.data.total
 
-  const results = Array.from(
-    { length: resultsByCategory.length },
-    () => []
-  )
+  // const results = Array.from(
+  //   { length: resultsByCategory.length },
+  //   () => []
+  // )
 
-  for (let i = 0; i <= resultsByCategory.length - 1; i++) {
-    resultsByCategory[i].votes.map((vote) => {
-      results[i].push(vote.votes)
-      return true
-    })
-  }
+  // for (let i = 0; i <= resultsByCategory.length - 1; i++) {
+  //   resultsByCategory[i].votes.map((vote) => {
+  //     results[i].push(vote.votes)
+  //     return true
+  //   })
+  // }
 
-  const totalVotes = totals.map(total => {
-    return total.votes
-  })
+  // const totalVotes = totals.map(total => {
+  //   return total.votes
+  // })
 
-  const allVotes = {
-    categoryName: 'Resultado Geral dos Filmes',
-    movies: titles
-  }
+  // const allVotes = {
+  //   categoryName: 'Resultado Geral dos Filmes',
+  //   movies: titles
+  // }
 
-  labels.push(allVotes)
-  results.push(totalVotes)
+  // labels.push(allVotes)
+  // results.push(totalVotes)
+
+  const results = []
+  const numOfVotes = []
 
   const data = {
     dataMovies: {
