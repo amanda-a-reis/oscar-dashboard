@@ -14,7 +14,7 @@ export default function Home ({ data }): ReactElement {
   )
 }
 
-export async function getStaticProps (): Promise<any> {
+export async function getServerSideProps (): Promise<any> {
   const url = process.env.URL
 
   const resultsJSON = await axios.get(`${url}/api/oscar/votes`)
