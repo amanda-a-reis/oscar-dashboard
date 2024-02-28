@@ -2,7 +2,7 @@ import type { NextApiRequest, NextApiResponse } from 'next'
 import MongoDB from '../../../mongodb/config'
 import { UserVote, type IUserVote } from '../../../mongodb/vote'
 import { labels } from '../../../movies/dataProcessing'
-import titles from '../../../movies/titles.json'
+import titles from '../../../movies/titles_2024.json'
 
 MongoDB.instance.connect()
 
@@ -127,6 +127,6 @@ export default async function handler (
     }
     default:
       res.setHeader('Allow', ['GET'])
-      res.status(405).end(`Method ${method} Not Allowed`)
+      res.status(405).send(`Method ${method} Not Allowed`)
   }
 }

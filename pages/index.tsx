@@ -4,7 +4,7 @@ import style from '../styles/home/home.module.scss'
 import axios from 'axios'
 
 import { labels } from '../movies/dataProcessing'
-import titles from '../movies/titles.json'
+import titles from '../movies/titles_2024.json'
 
 export default function Home ({ data }): ReactElement {
   return (

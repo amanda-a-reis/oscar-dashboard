@@ -1,4 +1,4 @@
-import oscar from './oscar.json'
+import oscar from './oscar_2024.json'
 
 const labels = []
 

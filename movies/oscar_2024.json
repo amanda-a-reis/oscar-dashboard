@@ -1,0 +1,497 @@
+[
+    {
+        "categoryName": "Melhor Filme",
+        "movies": [
+            {
+                "titlePT": "Oppenheimer",
+                "image": "https://image.tmdb.org/t/p/w500/c0DCmfC7Et2K3URnIJ4ahJpeXR2.jpg"
+            },
+            {
+                "titlePT": "Barbie",
+                "image": "https://image.tmdb.org/t/p/w500/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg"
+            },
+            {
+                "titlePT": "American Fiction",
+                "image": "https://image.tmdb.org/t/p/w500/bndwT7YCJv9nEHGSXuzvx9PJ013.jpg"
+            },
+            {
+                "titlePT": "Zona de Interesse",
+                "image": "https://image.tmdb.org/t/p/w500/7cvX39QbSykkK4aYx4MQhQpXRdc.jpg"
+            },
+            {
+                "titlePT": "Os Rejeitados",
+                "image": "https://image.tmdb.org/t/p/w500/nuljFk9VbHR8JPPl2uNbu9aMlqg.jpg"
+            },
+            {
+                "titlePT": "Pobres Criaturas",
+                "image": "https://image.tmdb.org/t/p/w500/kTbBzzdVICzzbv9iFaX0aadvjg0.jpg"
+            },
+            {
+                "titlePT": "Vidas Passadas",
+                "image": "https://image.tmdb.org/t/p/w500/toSI71gFF11VnLfz2uiNx6jjNUF.jpg"
+            },
+            {
+                "titlePT": "Anatomia de uma Queda",
+                "image": "https://image.tmdb.org/t/p/w500/woXYl0DJTx6TsfYWPkSfNHTsoOx.jpg"
+            },
+            {
+                "titlePT": "Maestro",
+                "image": "https://image.tmdb.org/t/p/w500/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg"
+            },
+            {
+                "titlePT": "Assassinos da Lua das Flores",
+                "image": "https://image.tmdb.org/t/p/w500/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg"
+            }
+        ]
+    },
+    {
+        "categoryName": "Melhor Ator",
+        "movies": [
+            {
+                "titlePT": "Paul Giamatti - Os Rejeitados",
+                "image": "https://image.tmdb.org/t/p/w500/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+            },
+            {
+                "titlePT": "Bradley Cooper - Maestro",
+                "image": "https://image.tmdb.org/t/p/w500/lq68RaE8zK4lNaB49RWOukyorgn.jpg"
+            },
+            {
+                "titlePT": "Colman Domingo - Rustin",
+                "image": "https://image.tmdb.org/t/p/w500/2tu6T9ugnf82qIMGVKWSb0dvvq5.jpg"
+            },
+            {
+                "titlePT": "Cillian Murphy - Oppenheimer",
+                "image": "https://image.tmdb.org/t/p/w500/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg"
+            },
+            {
+                "titlePT": "Jeffrey Wright - American Fiction",
+                "image": "https://image.tmdb.org/t/p/w500/yGcuHGW4glqRpOPxgiCvjcren7F.jpg"
+            }
+        ]
+    },
+    {
+        "categoryName": "Melhor Atriz",
+        "movies": [
+            {
+                "titlePT": "Emma Stone - Pobres Criaturas",
+                "image": "https://image.tmdb.org/t/p/w500/3UaYw9KF4fEXRMRWhf25aGJpAW2.jpg"
+            },
+            {
+                "titlePT": "Lily Gladstone - Assasinos da Lua das Flores",
+                "image": "https://image.tmdb.org/t/p/w500/qep2yrwl02N4KUHy7MEchnjwHN9.jpg"
+            },
+            {
+                "titlePT": "Annette Bening - Nyad",
+                "image": "https://image.tmdb.org/t/p/w500/l5hy3qj4fCTSKdioALspvLQmhOc.jpg"
+            },
+            {
+                "titlePT": "Carey Mulligan - Maestro",
+                "image": "https://image.tmdb.org/t/p/w500/iwVHhqoz5b62FR0SDpZ7wfsuTBI.jpg"
+            },
+            {
+                "titlePT": "Sandra Huller - Anatomia de uma Queda",
+                "image": "https://image.tmdb.org/t/p/w500/t7wGqC2dRwTEnt9Fk5pxQ0uXTqs.jpg"
+            }
+        ]
+    },
+    {
+        "categoryName": "Melhor Filme Internacional",
+        "movies": [
+            {
+                "titlePT": "Io Capitano",
+                "image": "https://image.tmdb.org/t/p/w500/3XhtyFEGrRjvgz11OEWZtXsGSV1.jpg"
+            },
+            {
+                "titlePT": "A Sociedade da Neve",
+                "image": "https://image.tmdb.org/t/p/w500/7fQTmvKgVGxifieVryqqlxohkoW.jpg"
+            },
+            {
+                "titlePT": "Zona de Interesse",
+                "image": "https://image.tmdb.org/t/p/w500/7cvX39QbSykkK4aYx4MQhQpXRdc.jpg"
+            },
+            {
+                "titlePT": "Dias Perfeitos",
+                "image": "https://image.tmdb.org/t/p/w500/u5BUcBPShz4BLiUqV8Xu5GrAnv0.jpg"
+            },
+            {
+                "titlePT": "Das Lehrerzimmer",
+                "image": "https://image.tmdb.org/t/p/w500/kWXA6PfQ0PpZpoCXoeBFRciRrUw.jpg"
+            }
+        ]
+    },
+    {
+        "categoryName": "Melhor Canção Orignal",
+        "movies": [
+            {
+                "titlePT": "I'm Just Ken - Barbie",
+                "image": "https://image.tmdb.org/t/p/w500/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg"
+            },
+            {
+                "titlePT": "It Never Went Away - American Symphony",
+                "image": "https://image.tmdb.org/t/p/w500/skfO62LOEg805x9fMYeEDQRorXP.jpg"
+            },
+            {
+                "titlePT": "What Was I Made For - Barbie",
+                "image": "https://image.tmdb.org/t/p/w500/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg"
+            },
+            {
+                "titlePT": "Wahzhazhe - Assassinos da Lua das Flores",
+                "image": "https://image.tmdb.org/t/p/w500/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg"
+            },
+            {
+                "titlePT": "The Fire Inside - Flamin' Hot",
+                "image": "https://image.tmdb.org/t/p/w500/swcV0H1ODbH2Afb9ljYzzdeUyCW.jpg"
+            }
+        ]
+    },
+    {
+        "categoryName": "Melhor Filme de Animação",
+        "movies": [
+            {
+                "titlePT": "Nimona",
+                "image": "https://image.tmdb.org/t/p/w500/fgxGOLPoqv2e0ENAnVAPwDeMl40.jpg"
+            },
+            {
+                "titlePT": "Robot Dreams",
+                "image": "https://image.tmdb.org/t/p/w500/30TUJgAUBbHdq9Rm44Xm6Tlwzwg.jpg"
+            },
+            {
+                "titlePT": "O Menino e a Garça",
+                "image": "https://image.tmdb.org/t/p/w500/qPNmxw9Ag66rmaYPKDpob9HIpth.jpg"
+            },
+            {
+                "titlePT": "Elementos",
+                "image": "https://image.tmdb.org/t/p/w500/7QsY7Jo3ZgL3pa1kdo28TA7Z6qo.jpg"
+            },
+            {
+                "titlePT": "Homem-Aranha: Através do Aranhaverso",
+                "image": "https://image.tmdb.org/t/p/w500/fBS6y0LYX4kU6pPSBYMdQy6SIHX.jpg"
+            }
+        ]
+    },
+    {
+        "categoryName": "Melhor Direção",
+        "movies": [
+            {
+                "titlePT": "Justine Triet - Anatomia de uma Queda",
+                "image": "https://image.tmdb.org/t/p/w500/woXYl0DJTx6TsfYWPkSfNHTsoOx.jpg"
+            },
+            {
+                "titlePT": "Martin Scorsese - Assassinos da Lua das Flores",
+                "image": "https://image.tmdb.org/t/p/w500/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg"
+            },
+            {
+                "titlePT": "Yorgos Lanthimos - Pobres Criaturas",
+                "image": "https://image.tmdb.org/t/p/w500/kTbBzzdVICzzbv9iFaX0aadvjg0.jpg"
+            },
+            {
+                "titlePT": "Christopher Nolan - Oppenheimer",
+                "image": "https://image.tmdb.org/t/p/w500/c0DCmfC7Et2K3URnIJ4ahJpeXR2.jpg"
+            },
+            {
+                "titlePT": "Jonathan Glazer - Zona de Interesse",
+                "image": "https://image.tmdb.org/t/p/w500/7cvX39QbSykkK4aYx4MQhQpXRdc.jpg"
+            }
+        ]
+    },
+    {
+        "categoryName": "Melhores Efeitos Visuais",
+        "movies": [
+            {
+                "titlePT": "Godzilla Minus One",
+                "image": "https://image.tmdb.org/t/p/w500/iXrCBynsyRGbOtoBeWjt1bRINuA.jpgg"
+            },
+            {
+                "titlePT": "Guardiões da Galáxia Vol. 3",
+                "image": "https://image.tmdb.org/t/p/w500/4yycSPnchdNAZirGkmCYQwTd3cr.jpg"
+            },
+            {
+                "titlePT": "Napoleão",
+                "image": "https://image.tmdb.org/t/p/w500/oaUS0YJN3cHpvin1BMNmmnv0gRX.jpg"
+            },
+            {
+                "titlePT": "Resistência",
+                "image": "https://image.tmdb.org/t/p/w500/a2CroeECoXPpvJlbUxtrfDd4Rih.jpg"
+            },
+            {
+                "titlePT": "Missão: Impossível-Acerto De Contas Parte 1",
+                "image": "https://image.tmdb.org/t/p/w500/8hjno4uE19pm0qlfUDcM8e5WK13.jpg"
+            }
+        ]
+    },
+    {
+        "categoryName": "Melhor Roteiro Original",
+        "movies": [
+            {
+                "titlePT": "Os Rejeitados",
+                "image": "https://image.tmdb.org/t/p/w500/nuljFk9VbHR8JPPl2uNbu9aMlqg.jpg"
+            },
+            {
+                "titlePT": "Segredos de Um Escândalo",
+                "image": "https://image.tmdb.org/t/p/w500/pjy5few09GsbbkjQRixEIChmZ7J.jpg"
+            },
+            {
+                "titlePT": "Vidas Passadas",
+                "image": "https://image.tmdb.org/t/p/w500/toSI71gFF11VnLfz2uiNx6jjNUF.jpg"
+            },
+            {
+                "titlePT": "Anatomia de uma Queda",
+                "image": "https://image.tmdb.org/t/p/w500/woXYl0DJTx6TsfYWPkSfNHTsoOx.jpg"
+            },
+            {
+                "titlePT": "Maestro",
+                "image": "https://image.tmdb.org/t/p/w500/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg"
+            }
+        ]
+    },
+    {
+        "categoryName": "Melhor Atriz Coadjuvante",
+        "movies": [
+            {
+                "titlePT": "America Ferrera - Barbie",
+                "image": "https://image.tmdb.org/t/p/w500/7F84Lh2lKpvkM3EiOvqqvlOmw93.jpg"
+            },
+            {
+                "titlePT": "Danielle Brooks - A Cor Púrpura",
+                "image": "https://image.tmdb.org/t/p/w500/pIBSSigZATyYZYjfCL59Nw6FjbM.jpg"
+            },
+            {
+                "titlePT": "Da'Vine Joy Randolph - Os Rejeitados",
+                "image": "https://image.tmdb.org/t/p/w500/awNT6lltD8zItbGtolmO8IGT8ot.jpg"
+            },
+            {
+                "titlePT": "Emily Blunt - Oppenheimer",
+                "image": "https://image.tmdb.org/t/p/w500/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
+            },
+            {
+                "titlePT": "Jodie Foster - Nyad",
+                "image": "https://image.tmdb.org/t/p/w500/resiaRfWvj4N84TgJi9DPOafCpq.jpg"
+            }
+        ]
+    },
+    {
+        "categoryName": "Melhor Ator Coadjuvante",
+        "movies": [
+            {
+                "titlePT": "Mark Ruffalo - Pobres Criaturas",
+                "image": "https://image.tmdb.org/t/p/w500/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+            },
+            {
+                "titlePT": "Robert De Niro - Assassinos da Lua das Flores",
+                "image": "https://image.tmdb.org/t/p/w500/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+            },
+            {
+                "titlePT": "Robert Downey Jr. - Oppenheimer",
+                "image": "https://image.tmdb.org/t/p/w500/im9SAqJPZKEbVZGmjXuLI4O7RvM.jpg"
+            },
+            {
+                "titlePT": "Sterlink K. Brown - American Fiction",
+                "image": "https://image.tmdb.org/t/p/w500/vjFATaJfAyBie56J4Qv2DQ9Dyem.jpg"
+            },
+            {
+                "titlePT": "Ryan Gosling - Barbie",
+                "image": "https://image.tmdb.org/t/p/w500/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+            }
+        ]
+    },
+    {
+        "categoryName": "Melhor Roteiro Adaptado",
+        "movies": [
+            {
+                "titlePT": "American Fiction",
+                "image": "https://image.tmdb.org/t/p/w500/bndwT7YCJv9nEHGSXuzvx9PJ013.jpg"
+            },
+            {
+                "titlePT": "Zona de Interesse",
+                "image": "https://image.tmdb.org/t/p/w500/7cvX39QbSykkK4aYx4MQhQpXRdc.jpg"
+            },
+            {
+                "titlePT": "Oppenheimer",
+                "image": "https://image.tmdb.org/t/p/w500/c0DCmfC7Et2K3URnIJ4ahJpeXR2.jpg"
+            },
+            {
+                "titlePT": "Barbie",
+                "image": "https://image.tmdb.org/t/p/w500/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg"
+            },
+            {
+                "titlePT": "Pobres Criaturas",
+                "image": "https://image.tmdb.org/t/p/w500/kTbBzzdVICzzbv9iFaX0aadvjg0.jpg"
+            }
+        ]
+    },
+    {
+        "categoryName": "Melhor Trilha Sonora Original",
+        "movies": [
+            {
+                "titlePT": "American Fiction",
+                "image": "https://image.tmdb.org/t/p/w500/bndwT7YCJv9nEHGSXuzvx9PJ013.jpg"
+            },
+            {
+                "titlePT": "Oppenheimer",
+                "image": "https://image.tmdb.org/t/p/w500/c0DCmfC7Et2K3URnIJ4ahJpeXR2.jpg"
+            },
+            {
+                "titlePT": "Indiana Jones e a Relíquia do Destino",
+                "image": "https://image.tmdb.org/t/p/w500/9EnfMH0nTPCna87Mh3G8Q6W2wze.jpg"
+            },
+            {
+                "titlePT": "Pobres Criaturas",
+                "image": "https://image.tmdb.org/t/p/w500/kTbBzzdVICzzbv9iFaX0aadvjg0.jpg"
+            },
+            {
+                "titlePT": "Assassinos da Lua das Flores",
+                "image": "https://image.tmdb.org/t/p/w500/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg"
+            }
+        ]
+    },
+    {
+        "categoryName": "Melhor Fotografia",
+        "movies": [
+            {
+                "titlePT": "Oppenheimer",
+                "image": "https://image.tmdb.org/t/p/w500/c0DCmfC7Et2K3URnIJ4ahJpeXR2.jpg"
+            },
+            {
+                "titlePT": "Pobres Criaturas",
+                "image": "https://image.tmdb.org/t/p/w500/kTbBzzdVICzzbv9iFaX0aadvjg0.jpg"
+            },
+            {
+                "titlePT": "O Conde",
+                "image": "https://image.tmdb.org/t/p/w500/rxBe0Js4dCvp1ZGgHHnBxjtbGPw.jpg"
+            },
+            {
+                "titlePT": "Maestro",
+                "image": "https://image.tmdb.org/t/p/w500/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg"
+            },
+            {
+                "titlePT": "Assassinos da Lua das Flores",
+                "image": "https://image.tmdb.org/t/p/w500/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg"
+            }
+        ]
+    },
+    {
+        "categoryName": "Melhor Maquiagem e Penteados",
+        "movies": [
+            {
+                "titlePT": "A Sociedade da Neve",
+                "image": "https://image.tmdb.org/t/p/w500/7fQTmvKgVGxifieVryqqlxohkoW.jpg"
+            },
+            {
+                "titlePT": "Golda-A Mulher de uma Nação",
+                "image": "https://image.tmdb.org/t/p/w500/sDVD8YkzeRUfvslY7jMwodjDdnD.jpg"
+            },
+            {
+                "titlePT": "Oppenheimer",
+                "image": "https://image.tmdb.org/t/p/w500/c0DCmfC7Et2K3URnIJ4ahJpeXR2.jpg"
+            },
+            {
+                "titlePT": "Pobres Criaturas",
+                "image": "https://image.tmdb.org/t/p/w500/kTbBzzdVICzzbv9iFaX0aadvjg0.jpg"
+            },
+            {
+                "titlePT": "Maestro",
+                "image": "https://image.tmdb.org/t/p/w500/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg"
+            }
+        ]
+    },
+    {
+        "categoryName": "Melhor Direção de Arte",
+        "movies": [
+            {
+                "titlePT": "Napoleão",
+                "image": "https://image.tmdb.org/t/p/w500/oaUS0YJN3cHpvin1BMNmmnv0gRX.jpg"
+            },
+            {
+                "titlePT": "Barbie",
+                "image": "https://image.tmdb.org/t/p/w500/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg"
+            },
+            {
+                "titlePT": "Oppenheimer",
+                "image": "https://image.tmdb.org/t/p/w500/c0DCmfC7Et2K3URnIJ4ahJpeXR2.jpg"
+            },
+            {
+                "titlePT": "Pobres Criaturas",
+                "image": "https://image.tmdb.org/t/p/w500/kTbBzzdVICzzbv9iFaX0aadvjg0.jpg"
+            },
+            {
+                "titlePT": "Assassinos da Lua das Flores",
+                "image": "https://image.tmdb.org/t/p/w500/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg"
+            }
+        ]
+    },
+    {
+        "categoryName": "Melhor Montagem",
+        "movies": [
+            {
+                "titlePT": "Os Rejeitados",
+                "image": "https://image.tmdb.org/t/p/w500/nuljFk9VbHR8JPPl2uNbu9aMlqg.jpg"
+            },
+            {
+                "titlePT": "Oppenheimer",
+                "image": "https://image.tmdb.org/t/p/w500/c0DCmfC7Et2K3URnIJ4ahJpeXR2.jpg"
+            },
+            {
+                "titlePT": "Pobres Criaturas",
+                "image": "https://image.tmdb.org/t/p/w500/kTbBzzdVICzzbv9iFaX0aadvjg0.jpg"
+            },
+            {
+                "titlePT": "Anatomia de uma Queda",
+                "image": "https://image.tmdb.org/t/p/w500/woXYl0DJTx6TsfYWPkSfNHTsoOx.jpg"
+            },
+            {
+                "titlePT": "Assassinos da Lua das Flores",
+                "image": "https://image.tmdb.org/t/p/w500/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg"
+            }
+        ]
+    },
+    {
+        "categoryName": "Melhor Figurino",
+        "movies": [
+            {
+                "titlePT": "Napoleão",
+                "image": "https://image.tmdb.org/t/p/w500/oaUS0YJN3cHpvin1BMNmmnv0gRX.jpg"
+            },
+            {
+                "titlePT": "Barbie",
+                "image": "https://image.tmdb.org/t/p/w500/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg"
+            },
+            {
+                "titlePT": "Oppenheimer",
+                "image": "https://image.tmdb.org/t/p/w500/c0DCmfC7Et2K3URnIJ4ahJpeXR2.jpg"
+            },
+            {
+                "titlePT": "Pobres Criaturas",
+                "image": "https://image.tmdb.org/t/p/w500/kTbBzzdVICzzbv9iFaX0aadvjg0.jpg"
+            },
+            {
+                "titlePT": "Assassinos da Lua das Flores",
+                "image": "https://image.tmdb.org/t/p/w500/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg"
+            }
+        ]
+    },
+    {
+        "categoryName": "Melhor Som",
+        "movies": [
+            {
+                "titlePT": "Zona de Interesse",
+                "image": "https://image.tmdb.org/t/p/w500/7cvX39QbSykkK4aYx4MQhQpXRdc.jpg"
+            },
+            {
+                "titlePT": "Resistência",
+                "image": "https://image.tmdb.org/t/p/w500/a2CroeECoXPpvJlbUxtrfDd4Rih.jpg"
+            },
+            {
+                "titlePT": "Oppenheimer",
+                "image": "https://image.tmdb.org/t/p/w500/c0DCmfC7Et2K3URnIJ4ahJpeXR2.jpg"
+            },
+            {
+                "titlePT": "Maestro",
+                "image": "https://image.tmdb.org/t/p/w500/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg"
+            },
+            {
+                "titlePT": "Missão: Impossível-Acerto De Contas Parte 1",
+                "image": "https://image.tmdb.org/t/p/w500/8hjno4uE19pm0qlfUDcM8e5WK13.jpg"
+            }
+        ]
+    }
+]
