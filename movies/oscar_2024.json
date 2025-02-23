@@ -3,44 +3,44 @@
         "categoryName": "Melhor Filme",
         "movies": [
             {
-                "titlePT": "Oppenheimer",
-                "image": "https://image.tmdb.org/t/p/w500/c0DCmfC7Et2K3URnIJ4ahJpeXR2.jpg"
+                "titlePT": "Anora",
+                "image": "https://image.tmdb.org/t/p/w500/xmFdNzbUiT5XmH6rbIVGYDQHGeo.jpg"
             },
             {
-                "titlePT": "Barbie",
-                "image": "https://image.tmdb.org/t/p/w500/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg"
+                "titlePT": "O Brutalista",
+                "image": "https://image.tmdb.org/t/p/w500/tsVRsCGJ4bZG1xWfQkUgt71ystL.jpg"
             },
             {
-                "titlePT": "American Fiction",
-                "image": "https://image.tmdb.org/t/p/w500/bndwT7YCJv9nEHGSXuzvx9PJ013.jpg"
+                "titlePT": "Um Completo Desconhecido",
+                "image": "https://image.tmdb.org/t/p/w500/tXNPJ3XvF4RaEV66Qm9QO3pu3w7.jpg"
             },
             {
-                "titlePT": "Zona de Interesse",
-                "image": "https://image.tmdb.org/t/p/w500/7cvX39QbSykkK4aYx4MQhQpXRdc.jpg"
+                "titlePT": "Conclave",
+                "image": "https://image.tmdb.org/t/p/w500/xS5SK7EVPCmsFAOT48rCsJesmkP.jpg"
             },
             {
-                "titlePT": "Os Rejeitados",
-                "image": "https://image.tmdb.org/t/p/w500/nuljFk9VbHR8JPPl2uNbu9aMlqg.jpg"
+                "titlePT": "Duna: Parte 2",
+                "image": "https://image.tmdb.org/t/p/w500/8LJJjLjAzAwXS40S5mx79PJ2jSs.jpg"
             },
             {
-                "titlePT": "Pobres Criaturas",
-                "image": "https://image.tmdb.org/t/p/w500/kTbBzzdVICzzbv9iFaX0aadvjg0.jpg"
+                "titlePT": "Emilia Pérez",
+                "image": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg"
             },
             {
-                "titlePT": "Vidas Passadas",
-                "image": "https://image.tmdb.org/t/p/w500/toSI71gFF11VnLfz2uiNx6jjNUF.jpg"
+                "titlePT": "Ainda Estou Aqui",
+                "image": "https://image.tmdb.org/t/p/w500/vpdRMPjZKnVyACTVRIQMKJ44RfG.jpg"
             },
             {
-                "titlePT": "Anatomia de uma Queda",
-                "image": "https://image.tmdb.org/t/p/w500/woXYl0DJTx6TsfYWPkSfNHTsoOx.jpg"
+                "titlePT": "Nickel Boys",
+                "image": "https://image.tmdb.org/t/p/w500/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg"
             },
             {
-                "titlePT": "Maestro",
-                "image": "https://image.tmdb.org/t/p/w500/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg"
+                "titlePT": "A Substância",
+                "image": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg"
             },
             {
-                "titlePT": "Assassinos da Lua das Flores",
-                "image": "https://image.tmdb.org/t/p/w500/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg"
+                "titlePT": "Wicked",
+                "image": "https://image.tmdb.org/t/p/w500/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg"
             }
         ]
     },
@@ -48,24 +48,24 @@
         "categoryName": "Melhor Ator",
         "movies": [
             {
-                "titlePT": "Paul Giamatti - Os Rejeitados",
-                "image": "https://image.tmdb.org/t/p/w500/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+                "titlePT": "Adrien Brody - O Brutalista",
+                "image": "https://image.tmdb.org/t/p/w500/qBc7ahQrpVpcllaZ5hkivsOEb3C.jpg"
             },
             {
-                "titlePT": "Bradley Cooper - Maestro",
-                "image": "https://image.tmdb.org/t/p/w500/lq68RaE8zK4lNaB49RWOukyorgn.jpg"
+                "titlePT": "Timothée Chalamet - Um Completo Desconhecido",
+                "image": "https://image.tmdb.org/t/p/w500/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
             },
             {
-                "titlePT": "Colman Domingo - Rustin",
+                "titlePT": "Colman Domingo - Sins Sing",
                 "image": "https://image.tmdb.org/t/p/w500/2tu6T9ugnf82qIMGVKWSb0dvvq5.jpg"
             },
             {
-                "titlePT": "Cillian Murphy - Oppenheimer",
-                "image": "https://image.tmdb.org/t/p/w500/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg"
+                "titlePT": "Ralph Fiennes - Conclave",
+                "image": "https://image.tmdb.org/t/p/w500/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
             },
             {
-                "titlePT": "Jeffrey Wright - American Fiction",
-                "image": "https://image.tmdb.org/t/p/w500/yGcuHGW4glqRpOPxgiCvjcren7F.jpg"
+                "titlePT": "Sebastian Stan - O Aprendiz",
+                "image": "https://image.tmdb.org/t/p/w500/nKZgixTbHFXpkzzIpMFdLX98GYh.jpg"
             }
         ]
     },
@@ -73,24 +73,24 @@
         "categoryName": "Melhor Atriz",
         "movies": [
             {
-                "titlePT": "Emma Stone - Pobres Criaturas",
-                "image": "https://image.tmdb.org/t/p/w500/3UaYw9KF4fEXRMRWhf25aGJpAW2.jpg"
+                "titlePT": "Cynthia Erivo - Wicked ",
+                "image": "https://image.tmdb.org/t/p/w500/bO8khhSCIPT4gK9eLn1y5pUgVIa.jpg"
             },
             {
-                "titlePT": "Lily Gladstone - Assasinos da Lua das Flores",
-                "image": "https://image.tmdb.org/t/p/w500/qep2yrwl02N4KUHy7MEchnjwHN9.jpg"
+                "titlePT": "Karla Sofía Gascón - Emilia Pérez",
+                "image": "https://image.tmdb.org/t/p/w500/6gxCQ73DbVztP3DnFxks1qemoWT.jpg"
             },
             {
-                "titlePT": "Annette Bening - Nyad",
-                "image": "https://image.tmdb.org/t/p/w500/l5hy3qj4fCTSKdioALspvLQmhOc.jpg"
+                "titlePT": "Mikey Madison - Anora",
+                "image": "https://image.tmdb.org/t/p/w500/mYvxBOIUmAUjEZqHXBok1rc8eIC.jpg"
             },
             {
-                "titlePT": "Carey Mulligan - Maestro",
-                "image": "https://image.tmdb.org/t/p/w500/iwVHhqoz5b62FR0SDpZ7wfsuTBI.jpg"
+                "titlePT": "Demi Moore - A Substância",
+                "image": "https://image.tmdb.org/t/p/w500/gPgZSodybMFBodw7nKRTALONIr2.jpg"
             },
             {
-                "titlePT": "Sandra Huller - Anatomia de uma Queda",
-                "image": "https://image.tmdb.org/t/p/w500/t7wGqC2dRwTEnt9Fk5pxQ0uXTqs.jpg"
+                "titlePT": "Fernanda Torres - Ainda Estou Aqui",
+                "image": "https://image.tmdb.org/t/p/w500/dkxdADNwbM7ZLQK5YBNeKBqVJNM.jpg"
             }
         ]
     },
@@ -98,24 +98,24 @@
         "categoryName": "Melhor Filme Internacional",
         "movies": [
             {
-                "titlePT": "Io Capitano",
-                "image": "https://image.tmdb.org/t/p/w500/3XhtyFEGrRjvgz11OEWZtXsGSV1.jpg"
+                "titlePT": "Ainda Estou Aqui",
+                "image": "https://image.tmdb.org/t/p/w500/vpdRMPjZKnVyACTVRIQMKJ44RfG.jpg"
             },
             {
-                "titlePT": "A Sociedade da Neve",
-                "image": "https://image.tmdb.org/t/p/w500/7fQTmvKgVGxifieVryqqlxohkoW.jpg"
+                "titlePT": "A Garota da Agulha",
+                "image": "https://image.tmdb.org/t/p/w500/fbh4Xv4yr6gSRN0W5nwQ5X35hW7.jpg"
             },
             {
-                "titlePT": "Zona de Interesse",
-                "image": "https://image.tmdb.org/t/p/w500/7cvX39QbSykkK4aYx4MQhQpXRdc.jpg"
+                "titlePT": "Emilia Pérez",
+                "image": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg"
             },
             {
-                "titlePT": "Dias Perfeitos",
-                "image": "https://image.tmdb.org/t/p/w500/u5BUcBPShz4BLiUqV8Xu5GrAnv0.jpg"
+                "titlePT": "A Semente do Fruto Sagrado",
+                "image": "https://image.tmdb.org/t/p/w500/pxHFHJ2N4BAO5t9vJJyIK0f2Wbf.jpg"
             },
             {
-                "titlePT": "Das Lehrerzimmer",
-                "image": "https://image.tmdb.org/t/p/w500/kWXA6PfQ0PpZpoCXoeBFRciRrUw.jpg"
+                "titlePT": "Flow",
+                "image": "https://image.tmdb.org/t/p/w500/l5irGf3v8sTqvf9N53svIq3Z7Iv.jpg"
             }
         ]
     },
@@ -123,24 +123,24 @@
         "categoryName": "Melhor Canção Orignal",
         "movies": [
             {
-                "titlePT": "I'm Just Ken - Barbie",
-                "image": "https://image.tmdb.org/t/p/w500/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg"
+                "titlePT": "El Mal - Emilia Pérez",
+                "image": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg"
             },
             {
-                "titlePT": "It Never Went Away - American Symphony",
-                "image": "https://image.tmdb.org/t/p/w500/skfO62LOEg805x9fMYeEDQRorXP.jpg"
+                "titlePT": "The Journey - As Mulheres do Batalhão 6888",
+                "image": "https://image.tmdb.org/t/p/w500/hSIXnORYGY3mvmxeo1JMzSnX6Yz.jpg"
             },
             {
-                "titlePT": "What Was I Made For - Barbie",
-                "image": "https://image.tmdb.org/t/p/w500/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg"
+                "titlePT": "Like a Bird - Sing Sing",
+                "image": "https://image.tmdb.org/t/p/w500/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg"
             },
             {
-                "titlePT": "Wahzhazhe - Assassinos da Lua das Flores",
-                "image": "https://image.tmdb.org/t/p/w500/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg"
+                "titlePT": "Mi Camino - Emilia Pérez",
+                "image": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg"
             },
             {
-                "titlePT": "The Fire Inside - Flamin' Hot",
-                "image": "https://image.tmdb.org/t/p/w500/swcV0H1ODbH2Afb9ljYzzdeUyCW.jpg"
+                "titlePT": "Never Too Late - Elton John: Never Too Late",
+                "image": "https://image.tmdb.org/t/p/w500/s65osejJmzUqxGXHSRaDxBG16ep.jpg"
             }
         ]
     },
@@ -148,24 +148,24 @@
         "categoryName": "Melhor Filme de Animação",
         "movies": [
             {
-                "titlePT": "Nimona",
-                "image": "https://image.tmdb.org/t/p/w500/fgxGOLPoqv2e0ENAnVAPwDeMl40.jpg"
+                "titlePT": "Flow",
+                "image": "https://image.tmdb.org/t/p/w500/l5irGf3v8sTqvf9N53svIq3Z7Iv.jpg"
             },
             {
-                "titlePT": "Robot Dreams",
-                "image": "https://image.tmdb.org/t/p/w500/30TUJgAUBbHdq9Rm44Xm6Tlwzwg.jpg"
+                "titlePT": "Divertida Mente 2",
+                "image": "https://image.tmdb.org/t/p/w500/lHKNS35r4RTa9GO72vdadMLxoiV.jpg"
             },
             {
-                "titlePT": "O Menino e a Garça",
-                "image": "https://image.tmdb.org/t/p/w500/qPNmxw9Ag66rmaYPKDpob9HIpth.jpg"
+                "titlePT": "Memórias de um Caracol",
+                "image": "https://image.tmdb.org/t/p/w500/zeFRmFslWFp8GqbFfzUgwZb2ufW.jpg"
             },
             {
-                "titlePT": "Elementos",
-                "image": "https://image.tmdb.org/t/p/w500/7QsY7Jo3ZgL3pa1kdo28TA7Z6qo.jpg"
+                "titlePT": "Wallace & Gromit: Avengança",
+                "image": "https://image.tmdb.org/t/p/w500/lD6b0UkdviQw9N3LpSDqAOQKu8i.jpg"
             },
             {
-                "titlePT": "Homem-Aranha: Através do Aranhaverso",
-                "image": "https://image.tmdb.org/t/p/w500/fBS6y0LYX4kU6pPSBYMdQy6SIHX.jpg"
+                "titlePT": "Robô Selvagem",
+                "image": "https://image.tmdb.org/t/p/w500/gAHNIZKG8fmK7njOTpMmLKJXiag.jpg"
             }
         ]
     },
@@ -173,24 +173,24 @@
         "categoryName": "Melhor Direção",
         "movies": [
             {
-                "titlePT": "Justine Triet - Anatomia de uma Queda",
-                "image": "https://image.tmdb.org/t/p/w500/woXYl0DJTx6TsfYWPkSfNHTsoOx.jpg"
+                "titlePT": "Sean Baker - Anora",
+                "image": "https://image.tmdb.org/t/p/w500/xmFdNzbUiT5XmH6rbIVGYDQHGeo.jpg"
             },
             {
-                "titlePT": "Martin Scorsese - Assassinos da Lua das Flores",
-                "image": "https://image.tmdb.org/t/p/w500/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg"
+                "titlePT": "Brady Corbert - O Brutalista",
+                "image": "https://image.tmdb.org/t/p/w500/tsVRsCGJ4bZG1xWfQkUgt71ystL.jpg"
             },
             {
-                "titlePT": "Yorgos Lanthimos - Pobres Criaturas",
-                "image": "https://image.tmdb.org/t/p/w500/kTbBzzdVICzzbv9iFaX0aadvjg0.jpg"
+                "titlePT": "James Mangold - Um Completo Desconhecido",
+                "image": "https://image.tmdb.org/t/p/w500/tXNPJ3XvF4RaEV66Qm9QO3pu3w7.jpg"
             },
             {
-                "titlePT": "Christopher Nolan - Oppenheimer",
-                "image": "https://image.tmdb.org/t/p/w500/c0DCmfC7Et2K3URnIJ4ahJpeXR2.jpg"
+                "titlePT": "Jacques Audiard - Emilia Pérez",
+                "image": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg"
             },
             {
-                "titlePT": "Jonathan Glazer - Zona de Interesse",
-                "image": "https://image.tmdb.org/t/p/w500/7cvX39QbSykkK4aYx4MQhQpXRdc.jpg"
+                "titlePT": "Coralie Fargeat - A Substância",
+                "image": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg"
             }
         ]
     },
@@ -198,24 +198,24 @@
         "categoryName": "Melhores Efeitos Visuais",
         "movies": [
             {
-                "titlePT": "Godzilla Minus One",
-                "image": "https://image.tmdb.org/t/p/w500/iXrCBynsyRGbOtoBeWjt1bRINuA.jpgg"
+                "titlePT": "Alien: Romulus",
+                "image": "https://image.tmdb.org/t/p/w500/jB0W9tn4w07MFn7sTfqRTBLVytF.jpg"
             },
             {
-                "titlePT": "Guardiões da Galáxia Vol. 3",
-                "image": "https://image.tmdb.org/t/p/w500/4yycSPnchdNAZirGkmCYQwTd3cr.jpg"
+                "titlePT": "Better Man",
+                "image": "https://image.tmdb.org/t/p/w500/Ar6BzLWcvXKQJ7iH0FvvH7tqQic.jpg"
             },
             {
-                "titlePT": "Napoleão",
-                "image": "https://image.tmdb.org/t/p/w500/oaUS0YJN3cHpvin1BMNmmnv0gRX.jpg"
+                "titlePT": "Duna: Parte 2",
+                "image": "https://image.tmdb.org/t/p/w500/8LJJjLjAzAwXS40S5mx79PJ2jSs.jpg"
             },
             {
-                "titlePT": "Resistência",
-                "image": "https://image.tmdb.org/t/p/w500/a2CroeECoXPpvJlbUxtrfDd4Rih.jpg"
+                "titlePT": "Planeta dos Macacos: O Reinado",
+                "image": "https://image.tmdb.org/t/p/w500/xncPDbNFr9YnZqaB6Ht9uItaoZO.jpg"
             },
             {
-                "titlePT": "Missão: Impossível-Acerto De Contas Parte 1",
-                "image": "https://image.tmdb.org/t/p/w500/8hjno4uE19pm0qlfUDcM8e5WK13.jpg"
+                "titlePT": "Wicked",
+                "image": "https://image.tmdb.org/t/p/w500/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg"
             }
         ]
     },
@@ -223,24 +223,24 @@
         "categoryName": "Melhor Roteiro Original",
         "movies": [
             {
-                "titlePT": "Os Rejeitados",
-                "image": "https://image.tmdb.org/t/p/w500/nuljFk9VbHR8JPPl2uNbu9aMlqg.jpg"
+                "titlePT": "Anora",
+                "image": "https://image.tmdb.org/t/p/w500/xmFdNzbUiT5XmH6rbIVGYDQHGeo.jpg"
             },
             {
-                "titlePT": "Segredos de Um Escândalo",
-                "image": "https://image.tmdb.org/t/p/w500/pjy5few09GsbbkjQRixEIChmZ7J.jpg"
+                "titlePT": "O Brutalista",
+                "image": "https://image.tmdb.org/t/p/w500/tsVRsCGJ4bZG1xWfQkUgt71ystL.jpg"
             },
             {
-                "titlePT": "Vidas Passadas",
-                "image": "https://image.tmdb.org/t/p/w500/toSI71gFF11VnLfz2uiNx6jjNUF.jpg"
+                "titlePT": "A Verdadeira Dor",
+                "image": "https://image.tmdb.org/t/p/w500/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg"
             },
             {
-                "titlePT": "Anatomia de uma Queda",
-                "image": "https://image.tmdb.org/t/p/w500/woXYl0DJTx6TsfYWPkSfNHTsoOx.jpg"
+                "titlePT": "Setembro 5",
+                "image": "https://image.tmdb.org/t/p/w500/yoydJvO5A6r6rZMbfHgXTZNJogf.jpg"
             },
             {
-                "titlePT": "Maestro",
-                "image": "https://image.tmdb.org/t/p/w500/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg"
+                "titlePT": "A Substância",
+                "image": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg"
             }
         ]
     },
@@ -248,24 +248,24 @@
         "categoryName": "Melhor Atriz Coadjuvante",
         "movies": [
             {
-                "titlePT": "America Ferrera - Barbie",
-                "image": "https://image.tmdb.org/t/p/w500/7F84Lh2lKpvkM3EiOvqqvlOmw93.jpg"
+                "titlePT": "Monica Barbaro - Um Completo Desconhecido",
+                "image": "https://image.tmdb.org/t/p/w500/hiOYXzSkkuKyCEcjLxBoAc4bLZS.jpg"
             },
             {
-                "titlePT": "Danielle Brooks - A Cor Púrpura",
-                "image": "https://image.tmdb.org/t/p/w500/pIBSSigZATyYZYjfCL59Nw6FjbM.jpg"
+                "titlePT": "Ariana Grande - Wicked",
+                "image": "https://image.tmdb.org/t/p/w500/cslFyOh3sTWDeWXgsxmjJ1uqE0P.jpg"
             },
             {
-                "titlePT": "Da'Vine Joy Randolph - Os Rejeitados",
-                "image": "https://image.tmdb.org/t/p/w500/awNT6lltD8zItbGtolmO8IGT8ot.jpg"
+                "titlePT": "Felicity Jones - O Brutalista",
+                "image": "https://image.tmdb.org/t/p/w500/gsrb1CuyAQtTVZILtNA5tRnhHbs.jpg"
             },
             {
-                "titlePT": "Emily Blunt - Oppenheimer",
-                "image": "https://image.tmdb.org/t/p/w500/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
+                "titlePT": "Isabella Rossellini - Conclave",
+                "image": "https://image.tmdb.org/t/p/w500/z0zojT6nwDxi35HMcXlVpBfuBAU.jpg"
             },
             {
-                "titlePT": "Jodie Foster - Nyad",
-                "image": "https://image.tmdb.org/t/p/w500/resiaRfWvj4N84TgJi9DPOafCpq.jpg"
+                "titlePT": "Zoe Saldaña - Emilia Pérez",
+                "image": "https://image.tmdb.org/t/p/w500/snQ1rfO9Bb2LRG9MAOQnn3JXVHy.jpg"
             }
         ]
     },
@@ -273,24 +273,24 @@
         "categoryName": "Melhor Ator Coadjuvante",
         "movies": [
             {
-                "titlePT": "Mark Ruffalo - Pobres Criaturas",
-                "image": "https://image.tmdb.org/t/p/w500/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+                "titlePT": "Yura Borisov - Anora",
+                "image": "https://image.tmdb.org/t/p/w500/zLcD2UmXJG6m3qOQhNZs13SQRIp.jpg"
             },
             {
-                "titlePT": "Robert De Niro - Assassinos da Lua das Flores",
-                "image": "https://image.tmdb.org/t/p/w500/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+                "titlePT": "Kieran Culkin - A Verdadeira Dor",
+                "image": "https://image.tmdb.org/t/p/w500/b5EC4nziLhBRX4GOcYx2BdS3FTt.jpg"
             },
             {
-                "titlePT": "Robert Downey Jr. - Oppenheimer",
-                "image": "https://image.tmdb.org/t/p/w500/im9SAqJPZKEbVZGmjXuLI4O7RvM.jpg"
+                "titlePT": "Edward Norton - Um Completo Desconhecido",
+                "image": "https://image.tmdb.org/t/p/w500/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg"
             },
             {
-                "titlePT": "Sterlink K. Brown - American Fiction",
-                "image": "https://image.tmdb.org/t/p/w500/vjFATaJfAyBie56J4Qv2DQ9Dyem.jpg"
+                "titlePT": "Guy Pearce - O Brutalista",
+                "image": "https://image.tmdb.org/t/p/w500/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
             },
             {
-                "titlePT": "Ryan Gosling - Barbie",
-                "image": "https://image.tmdb.org/t/p/w500/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+                "titlePT": "Jeremy Strong - O Aprendiz",
+                "image": "https://image.tmdb.org/t/p/w500/jcMhXWICSi4QjQttJVhFSiKVvpF.jpg"
             }
         ]
     },
@@ -298,24 +298,24 @@
         "categoryName": "Melhor Roteiro Adaptado",
         "movies": [
             {
-                "titlePT": "American Fiction",
-                "image": "https://image.tmdb.org/t/p/w500/bndwT7YCJv9nEHGSXuzvx9PJ013.jpg"
+                "titlePT": "Um Completo Desconhecido",
+                "image": "https://image.tmdb.org/t/p/w500/tXNPJ3XvF4RaEV66Qm9QO3pu3w7.jpg"
             },
             {
-                "titlePT": "Zona de Interesse",
-                "image": "https://image.tmdb.org/t/p/w500/7cvX39QbSykkK4aYx4MQhQpXRdc.jpg"
+                "titlePT": "Conclave",
+                "image": "https://image.tmdb.org/t/p/w500/xS5SK7EVPCmsFAOT48rCsJesmkP.jpg"
             },
             {
-                "titlePT": "Oppenheimer",
-                "image": "https://image.tmdb.org/t/p/w500/c0DCmfC7Et2K3URnIJ4ahJpeXR2.jpg"
+                "titlePT": "Emilia Pérez",
+                "image": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg"
             },
             {
-                "titlePT": "Barbie",
-                "image": "https://image.tmdb.org/t/p/w500/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg"
+                "titlePT": "Nickel Boys",
+                "image": "https://image.tmdb.org/t/p/w500/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg"
             },
             {
-                "titlePT": "Pobres Criaturas",
-                "image": "https://image.tmdb.org/t/p/w500/kTbBzzdVICzzbv9iFaX0aadvjg0.jpg"
+                "titlePT": "Sing Sing",
+                "image": "https://image.tmdb.org/t/p/w500/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg"
             }
         ]
     },
@@ -323,24 +323,24 @@
         "categoryName": "Melhor Trilha Sonora Original",
         "movies": [
             {
-                "titlePT": "American Fiction",
-                "image": "https://image.tmdb.org/t/p/w500/bndwT7YCJv9nEHGSXuzvx9PJ013.jpg"
+                "titlePT": "O Brutalista",
+                "image": "https://image.tmdb.org/t/p/w500/tsVRsCGJ4bZG1xWfQkUgt71ystL.jpg"
             },
             {
-                "titlePT": "Oppenheimer",
-                "image": "https://image.tmdb.org/t/p/w500/c0DCmfC7Et2K3URnIJ4ahJpeXR2.jpg"
+                "titlePT": "Conclave",
+                "image": "https://image.tmdb.org/t/p/w500/xS5SK7EVPCmsFAOT48rCsJesmkP.jpg"
             },
             {
-                "titlePT": "Indiana Jones e a Relíquia do Destino",
-                "image": "https://image.tmdb.org/t/p/w500/9EnfMH0nTPCna87Mh3G8Q6W2wze.jpg"
+                "titlePT": "Emilia Pérez",
+                "image": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg"
             },
             {
-                "titlePT": "Pobres Criaturas",
-                "image": "https://image.tmdb.org/t/p/w500/kTbBzzdVICzzbv9iFaX0aadvjg0.jpg"
+                "titlePT": "Wicked",
+                "image": "https://image.tmdb.org/t/p/w500/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg"
             },
             {
-                "titlePT": "Assassinos da Lua das Flores",
-                "image": "https://image.tmdb.org/t/p/w500/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg"
+                "titlePT": "Robô Selvagem",
+                "image": "https://image.tmdb.org/t/p/w500/gAHNIZKG8fmK7njOTpMmLKJXiag.jpg"
             }
         ]
     },
@@ -348,24 +348,24 @@
         "categoryName": "Melhor Fotografia",
         "movies": [
             {
-                "titlePT": "Oppenheimer",
-                "image": "https://image.tmdb.org/t/p/w500/c0DCmfC7Et2K3URnIJ4ahJpeXR2.jpg"
+                "titlePT": "O Brutalista",
+                "image": "https://image.tmdb.org/t/p/w500/tsVRsCGJ4bZG1xWfQkUgt71ystL.jpg"
             },
             {
-                "titlePT": "Pobres Criaturas",
-                "image": "https://image.tmdb.org/t/p/w500/kTbBzzdVICzzbv9iFaX0aadvjg0.jpg"
+                "titlePT": "Duna: Parte 2",
+                "image": "https://image.tmdb.org/t/p/w500/8LJJjLjAzAwXS40S5mx79PJ2jSs.jpg"
             },
             {
-                "titlePT": "O Conde",
-                "image": "https://image.tmdb.org/t/p/w500/rxBe0Js4dCvp1ZGgHHnBxjtbGPw.jpg"
+                "titlePT": "Emilia Pérez",
+                "image": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg"
             },
             {
-                "titlePT": "Maestro",
-                "image": "https://image.tmdb.org/t/p/w500/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg"
+                "titlePT": "Maria",
+                "image": "https://image.tmdb.org/t/p/w500/bvwkLv20GrNIU7WSjCcpJVKxFUc.jpg"
             },
             {
-                "titlePT": "Assassinos da Lua das Flores",
-                "image": "https://image.tmdb.org/t/p/w500/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg"
+                "titlePT": "Nosferatu",
+                "image": "https://image.tmdb.org/t/p/w500/sLv83G0JWXAGNq0bEawvhHVCT3n.jpg"
             }
         ]
     },
@@ -373,24 +373,24 @@
         "categoryName": "Melhor Maquiagem e Penteados",
         "movies": [
             {
-                "titlePT": "A Sociedade da Neve",
-                "image": "https://image.tmdb.org/t/p/w500/7fQTmvKgVGxifieVryqqlxohkoW.jpg"
+                "titlePT": "Um Homem Diferente",
+                "image": "https://image.tmdb.org/t/p/w500/6hhLlgqGTa7La186TEaK7vhpgAA.jpg"
             },
             {
-                "titlePT": "Golda-A Mulher de uma Nação",
-                "image": "https://image.tmdb.org/t/p/w500/sDVD8YkzeRUfvslY7jMwodjDdnD.jpg"
+                "titlePT": "Emilia Pérez",
+                "image": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg"
             },
             {
-                "titlePT": "Oppenheimer",
-                "image": "https://image.tmdb.org/t/p/w500/c0DCmfC7Et2K3URnIJ4ahJpeXR2.jpg"
+                "titlePT": "Nosferatu",
+                "image": "https://image.tmdb.org/t/p/w500/sLv83G0JWXAGNq0bEawvhHVCT3n.jpg"
             },
             {
-                "titlePT": "Pobres Criaturas",
-                "image": "https://image.tmdb.org/t/p/w500/kTbBzzdVICzzbv9iFaX0aadvjg0.jpg"
+                "titlePT": "A Substância",
+                "image": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg"
             },
             {
-                "titlePT": "Maestro",
-                "image": "https://image.tmdb.org/t/p/w500/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg"
+                "titlePT": "Wicked",
+                "image": "https://image.tmdb.org/t/p/w500/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg"
             }
         ]
     },
@@ -398,24 +398,24 @@
         "categoryName": "Melhor Direção de Arte",
         "movies": [
             {
-                "titlePT": "Napoleão",
-                "image": "https://image.tmdb.org/t/p/w500/oaUS0YJN3cHpvin1BMNmmnv0gRX.jpg"
+                "titlePT": "O Brutalista",
+                "image": "https://image.tmdb.org/t/p/w500/tsVRsCGJ4bZG1xWfQkUgt71ystL.jpg"
             },
             {
-                "titlePT": "Barbie",
-                "image": "https://image.tmdb.org/t/p/w500/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg"
+                "titlePT": "Conclave",
+                "image": "https://image.tmdb.org/t/p/w500/xS5SK7EVPCmsFAOT48rCsJesmkP.jpg"
             },
             {
-                "titlePT": "Oppenheimer",
-                "image": "https://image.tmdb.org/t/p/w500/c0DCmfC7Et2K3URnIJ4ahJpeXR2.jpg"
+                "titlePT": "Duna: Parte 2",
+                "image": "https://image.tmdb.org/t/p/w500/8LJJjLjAzAwXS40S5mx79PJ2jSs.jpg"
             },
             {
-                "titlePT": "Pobres Criaturas",
-                "image": "https://image.tmdb.org/t/p/w500/kTbBzzdVICzzbv9iFaX0aadvjg0.jpg"
+                "titlePT": "Nosferatu",
+                "image": "https://image.tmdb.org/t/p/w500/sLv83G0JWXAGNq0bEawvhHVCT3n.jpg"
             },
             {
-                "titlePT": "Assassinos da Lua das Flores",
-                "image": "https://image.tmdb.org/t/p/w500/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg"
+                "titlePT": "Wicked",
+                "image": "https://image.tmdb.org/t/p/w500/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg"
             }
         ]
     },
@@ -423,24 +423,24 @@
         "categoryName": "Melhor Montagem",
         "movies": [
             {
-                "titlePT": "Os Rejeitados",
-                "image": "https://image.tmdb.org/t/p/w500/nuljFk9VbHR8JPPl2uNbu9aMlqg.jpg"
+                "titlePT": "Anora",
+                "image": "https://image.tmdb.org/t/p/w500/xmFdNzbUiT5XmH6rbIVGYDQHGeo.jpg"
             },
             {
-                "titlePT": "Oppenheimer",
-                "image": "https://image.tmdb.org/t/p/w500/c0DCmfC7Et2K3URnIJ4ahJpeXR2.jpg"
+                "titlePT": "O Brutalista",
+                "image": "https://image.tmdb.org/t/p/w500/tsVRsCGJ4bZG1xWfQkUgt71ystL.jpg"
             },
             {
-                "titlePT": "Pobres Criaturas",
-                "image": "https://image.tmdb.org/t/p/w500/kTbBzzdVICzzbv9iFaX0aadvjg0.jpg"
+                "titlePT": "Conclave",
+                "image": "https://image.tmdb.org/t/p/w500/xS5SK7EVPCmsFAOT48rCsJesmkP.jpg"
             },
             {
-                "titlePT": "Anatomia de uma Queda",
-                "image": "https://image.tmdb.org/t/p/w500/woXYl0DJTx6TsfYWPkSfNHTsoOx.jpg"
+                "titlePT": "Emilia Pérez",
+                "image": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg"
             },
             {
-                "titlePT": "Assassinos da Lua das Flores",
-                "image": "https://image.tmdb.org/t/p/w500/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg"
+                "titlePT": "Wicked",
+                "image": "https://image.tmdb.org/t/p/w500/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg"
             }
         ]
     },
@@ -448,24 +448,24 @@
         "categoryName": "Melhor Figurino",
         "movies": [
             {
-                "titlePT": "Napoleão",
-                "image": "https://image.tmdb.org/t/p/w500/oaUS0YJN3cHpvin1BMNmmnv0gRX.jpg"
+                "titlePT": "Um Completo Desconhecido",
+                "image": "https://image.tmdb.org/t/p/w500/tXNPJ3XvF4RaEV66Qm9QO3pu3w7.jpg"
             },
             {
-                "titlePT": "Barbie",
-                "image": "https://image.tmdb.org/t/p/w500/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg"
+                "titlePT": "Conclave",
+                "image": "https://image.tmdb.org/t/p/w500/xS5SK7EVPCmsFAOT48rCsJesmkP.jpg"
             },
             {
-                "titlePT": "Oppenheimer",
-                "image": "https://image.tmdb.org/t/p/w500/c0DCmfC7Et2K3URnIJ4ahJpeXR2.jpg"
+                "titlePT": "Gladiador 2",
+                "image": "https://image.tmdb.org/t/p/w500/342bly9MqveL65TnEFzx8TTUxcL.jpg"
             },
             {
-                "titlePT": "Pobres Criaturas",
-                "image": "https://image.tmdb.org/t/p/w500/kTbBzzdVICzzbv9iFaX0aadvjg0.jpg"
+                "titlePT": "Nosferatu",
+                "image": "https://image.tmdb.org/t/p/w500/sLv83G0JWXAGNq0bEawvhHVCT3n.jpg"
             },
             {
-                "titlePT": "Assassinos da Lua das Flores",
-                "image": "https://image.tmdb.org/t/p/w500/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg"
+                "titlePT": "Wicked",
+                "image": "https://image.tmdb.org/t/p/w500/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg"
             }
         ]
     },
@@ -473,24 +473,24 @@
         "categoryName": "Melhor Som",
         "movies": [
             {
-                "titlePT": "Zona de Interesse",
-                "image": "https://image.tmdb.org/t/p/w500/7cvX39QbSykkK4aYx4MQhQpXRdc.jpg"
+                "titlePT": "Um Completo Desconhecido",
+                "image": "https://image.tmdb.org/t/p/w500/tXNPJ3XvF4RaEV66Qm9QO3pu3w7.jpg"
             },
             {
-                "titlePT": "Resistência",
-                "image": "https://image.tmdb.org/t/p/w500/a2CroeECoXPpvJlbUxtrfDd4Rih.jpg"
+                "titlePT": "Duna: Parte 2",
+                "image": "https://image.tmdb.org/t/p/w500/8LJJjLjAzAwXS40S5mx79PJ2jSs.jpg"
             },
             {
-                "titlePT": "Oppenheimer",
-                "image": "https://image.tmdb.org/t/p/w500/c0DCmfC7Et2K3URnIJ4ahJpeXR2.jpg"
+                "titlePT": "Emilia Pérez",
+                "image": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg"
             },
             {
-                "titlePT": "Maestro",
-                "image": "https://image.tmdb.org/t/p/w500/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg"
+                "titlePT": "Wicked",
+                "image": "https://image.tmdb.org/t/p/w500/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg"
             },
             {
-                "titlePT": "Missão: Impossível-Acerto De Contas Parte 1",
-                "image": "https://image.tmdb.org/t/p/w500/8hjno4uE19pm0qlfUDcM8e5WK13.jpg"
+                "titlePT": "Robô Selvagem",
+                "image": "https://image.tmdb.org/t/p/w500/gAHNIZKG8fmK7njOTpMmLKJXiag.jpg"
             }
         ]
     }
