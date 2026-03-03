@@ -1,499 +1,522 @@
 [
-    {
-       "categoryName":"Melhor Filme",
-       "movies":[
-          {
-             "titlePT":"Top Gun: Maverick",
-             "image":"https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Entre Mulheres",
-             "image":"https://m.media-amazon.com/images/M/MV5BYTZmMmQ4OWYtM2JmNC00NzY0LWJhODUtOTRmMWMyOTU4OWQ4XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Tudo em Todo o Lugar Ao Mesmo Tempo",
-             "image":"https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_Ratio0.7027_AL_.jpg"
-          },
-          {
-             "titlePT":"Os Banshees de Inisherin",
-             "image":"https://m.media-amazon.com/images/M/MV5BM2NlZDI0ZDktNTg5OS00ZjQ1LWI4MDEtN2I0MDE5NWRiNzA4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Triângulo da Tristeza",
-             "image":"https://m.media-amazon.com/images/M/MV5BNDRiZjc0ZDMtMjhlYi00ZjAzLTg0MDQtZDI2NGEyYTBlN2M2XkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Os Fabelmans",
-             "image":"https://m.media-amazon.com/images/M/MV5BZGM1MzczNmQtMjBmYS00NTRhLWI0MzctNTFkZDc4OGUyODdjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Nada de Novo no Front",
-             "image":"https://m.media-amazon.com/images/M/MV5BMzM4ZDJhYjYtZGY5Ny00NTk0LWI4ZTYtNjczZDFiMGI2ZjEzXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Avatar: O Caminho da Água",
-             "image":"https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_Ratio0.7027_AL_.jpg"
-          },
-          {
-             "titlePT":"Elvis",
-             "image":"https://m.media-amazon.com/images/M/MV5BYzMzNTJjYmMtZTkxNS00MjI4LWI3YmQtOTQ4MDZjZDJlZjQyXkEyXkFqcGdeQXVyNjc0NzQzNTM@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Tár",
-             "image":"https://m.media-amazon.com/images/M/MV5BM2I0ZDcyYzItMGEyNi00YWVhLTlmNTQtOWVlYjE1ZGVhNWM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6757_AL_.jpg"
-          }
-       ]
-    },
-    {
-      "categoryName":"Melhor Ator",
-      "movies":[
-         {
-            "titlePT":"Brendan Fraser - A Baleia",
-            "image":"https://m.media-amazon.com/images/M/MV5BMjA5MjExMzY0M15BMl5BanBnXkFtZTgwNTMxOTg4MTI@._V1_Ratio0.7273_AL_.jpg"
-         },
-         {
-            "titlePT":"Austin Butler - Elvis",
-            "image":"https://m.media-amazon.com/images/M/MV5BYzE2YjhhYWQtNGZmYi00OWIzLTgwMTAtNWI3NWY0ZTUwOTNiXkEyXkFqcGdeQXVyNjY4MDI3NQ@@._V1_Ratio0.8636_AL_.jpg"
-         },
-         {
-            "titlePT":"Colin Farrell - Os Banshees de Inisherin",
-            "image":"https://m.media-amazon.com/images/M/MV5BMTg4NzM5NDk0MV5BMl5BanBnXkFtZTcwNzAzMTUxNw@@._V1_Ratio0.7273_AL_.jpg"
-         },
-         {
-            "titlePT":"Bill Nighy - Living",
-            "image":"https://m.media-amazon.com/images/M/MV5BZDQ2ZWUyNDctOGMzNC00ODUzLWI0N2ItMjVkZjRmNzI1MWQ4XkEyXkFqcGdeQXVyMTI2Nzk3NzI4._V1_Ratio0.8636_AL_.jpg"
-         },
-         {
-            "titlePT":"Paul Mescal - Aftersun",
-            "image":"https://m.media-amazon.com/images/M/MV5BYzdhZTAzNjAtYjY5NC00OTFlLWFlYTEtMTQ0NTZlMjJmZTc3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.7273_AL_.jpg"
-         }     
-      ]
-   },
-   {
-      "categoryName":"Melhor Atriz",
-      "movies":[
-         {
-            "titlePT":"Andrea Riseborough - To Leslie",
-            "image":"https://m.media-amazon.com/images/M/MV5BMTU5MTUzNDAwN15BMl5BanBnXkFtZTcwMjA0NjcyNw@@._V1_Ratio0.7273_AL_.jpg"
-         },
-         {
-            "titlePT":"Michelle Williams - Fabelmans",
-            "image":"https://m.media-amazon.com/images/M/MV5BMjExNjY5NDY0MV5BMl5BanBnXkFtZTgwNjQ1Mjg1MTI@._V1_Ratio0.7273_AL_.jpg"
-         },
-         {
-            "titlePT":"Michelle Yeoh - Tudo em Todo o Lugar Ao Mesmo Tempo",
-            "image":"https://m.media-amazon.com/images/M/MV5BMTg0NTI0NDkzOF5BMl5BanBnXkFtZTcwMjYwMTIwNw@@._V1_Ratio0.7273_AL_.jpg"
-         },     
-         {
-            "titlePT":"Cate Blanchett - Tár",
-            "image":"https://m.media-amazon.com/images/M/MV5BMTc1MDI0MDg1NV5BMl5BanBnXkFtZTgwMDM3OTAzMTE@._V1_Ratio0.7273_AL_.jpg"
-         },
-         {
-            "titlePT":"Ana de Armas - Blonde",
-            "image":"https://m.media-amazon.com/images/M/MV5BMWM3MDMzNjMtODM5Ny00YmY0LWJhNzQtNTE1ZDNlNjllNDQ0XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_Ratio1.5000_AL_.jpg"
-         }
-      ]
-   },
-    {
-       "categoryName":"Melhor Filme Internacional",
-       "movies":[
-          {
-             "id":"tt1016150",
-             "titlePT":"Nada de Novo no Front",
-             "image":"https://m.media-amazon.com/images/M/MV5BMzM4ZDJhYjYtZGY5Ny00NTk0LWI4ZTYtNjczZDFiMGI2ZjEzXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Argentina, 1985",
-             "image":"https://m.media-amazon.com/images/M/MV5BMjhiYzUwZTYtYzU2MC00N2UwLTkwNmMtMGI1MTZjYzljNDZjXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_Ratio0.6833_AL_.jpg"
-          },
-          {
-             "titlePT":"A Menina Silenciosa",
-             "image":"https://m.media-amazon.com/images/M/MV5BYjljNGMzMjYtZTYwMS00NGMxLWIxY2UtM2E1N2FjZjBlN2MwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Close",
-             "image":"https://m.media-amazon.com/images/M/MV5BODJjYmE1ZTEtNzU0Yi00NjI3LWFjMmQtZWZkNjk2NTQxOGMwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"EO",
-             "image":"https://m.media-amazon.com/images/M/MV5BNWMwNzE4MDktMjY5Ny00Njg1LTkzMDUtNzgzYTY5OTIyZWNhXkEyXkFqcGdeQXVyNjQyMTI3MTM@._V1_Ratio0.6757_AL_.jpg"
-          }
-       ]
-    },
-    {
-      "categoryName":"Melhor Canção Orignal",
-      "movies":[
-         {
-            "titlePT":"Tell It Like a Woman",
-            "image":"https://m.media-amazon.com/images/M/MV5BNzg3Nzc4ZGEtY2FlZi00NjNiLWI2MDUtZDBhYzdjMGE1NDY1XkEyXkFqcGdeQXVyNDg3NDQyODA@._V1_Ratio0.6762_AL_.jpg"
-         },
-         {
-            "titlePT":"Top Gun: Maverick",
-            "image":"https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio0.6757_AL_.jpg"
-         },
-         {
-            "titlePT":"Pantera Negra: Wakanda Para Sempre",
-            "image":"https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6757_AL_.jpg"
-         },
-         {
-            "titlePT":"RRR: Revolta, Rebelião, Revolução",
-            "image":"https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_Ratio0.7568_AL_.jpg"
-         },
-         {
-            "titlePT":"Tudo em Todo o Lugar Ao Mesmo Tempo",
-            "image":"https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_Ratio0.7027_AL_.jpg"
-         }
-      ]
-   },
-    {
-       "categoryName":"Melhor Filme de Animação",
-       "movies":[
-          {
-             "titlePT":"RED: Crescer é uma Fera",
-             "image":"https://m.media-amazon.com/images/M/MV5BOWYxZDMxYWUtNjNiZC00MDE1LWI2Y2QtNWZhNDAyMGY5ZjVhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Pinóquio",
-             "image":"https://m.media-amazon.com/images/M/MV5BNjBhZjNkNDItODcxMS00ZGNmLTk3ODUtOGU1NWI3N2Q3YmM1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Marcel the Shell with Shoes On",
-             "image":"https://m.media-amazon.com/images/M/MV5BODgzZGEwZGQtZjA2Mi00OTI5LWIwZmYtZDQ4OTMxODE0YmU4XkEyXkFqcGdeQXVyOTQ5MDIyNDM@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"A Fera do Mar",
-             "image":"https://m.media-amazon.com/images/M/MV5BODkyYTRlMDItMDlhMC00MzkzLWI3NzQtOGVlMjdjYThlNDM3XkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Gato de Botas 2: O Último Pedido",
-             "image":"https://m.media-amazon.com/images/M/MV5BNjMyMDBjMGUtNDUzZi00N2MwLTg1MjItZTk2MDE1OTZmNTYxXkEyXkFqcGdeQXVyMTQ5NjA0NDM0._V1_Ratio0.6757_AL_.jpg"
-          }
-       ]
-    },
-    {
-      "categoryName":"Melhor Direção",
-      "movies":[
-         {
-            "titlePT":"Os Banshees de Inisherin",
-            "image":"https://m.media-amazon.com/images/M/MV5BM2NlZDI0ZDktNTg5OS00ZjQ1LWI4MDEtN2I0MDE5NWRiNzA4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_Ratio0.6757_AL_.jpg"
-         },
-         {
-            "titlePT":"Tár",
-            "image":"https://m.media-amazon.com/images/M/MV5BM2I0ZDcyYzItMGEyNi00YWVhLTlmNTQtOWVlYjE1ZGVhNWM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6757_AL_.jpg"
-         },
-         {
-            "titlePT":"Triângulo da Tristeza",
-            "image":"https://m.media-amazon.com/images/M/MV5BNDRiZjc0ZDMtMjhlYi00ZjAzLTg0MDQtZDI2NGEyYTBlN2M2XkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_Ratio0.6757_AL_.jpg"
-         },
-         {
-            "titlePT":"Tudo em Todo o Lugar Ao Mesmo Tempo",
-            "image":"https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_Ratio0.7027_AL_.jpg"
-         },
-         {
-            "titlePT":"Os Fabelmans",
-            "image":"https://m.media-amazon.com/images/M/MV5BZGM1MzczNmQtMjBmYS00NTRhLWI0MzctNTFkZDc4OGUyODdjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_Ratio0.6757_AL_.jpg"
-         }
-      ]
-   },
-    {
-       "categoryName":"Melhores Efeitos Visuais",
-       "movies":[
-          {
-             "titlePT":"Top Gun: Maverick",
-             "image":"https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Pantera Negra: Wakanda Para Sempre",
-             "image":"https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Nada de Novo no Front",
-             "image":"https://m.media-amazon.com/images/M/MV5BMzM4ZDJhYjYtZGY5Ny00NTk0LWI4ZTYtNjczZDFiMGI2ZjEzXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Avatar: O Caminho da Água",
-             "image":"https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_Ratio0.7027_AL_.jpg"
-          },
-          {
-             "titlePT":"Batman",
-             "image":"https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_Ratio0.6757_AL_.jpg"
-          }
-       ]
-    },
-    {
-       "categoryName":"Melhor Roteiro Original",
-       "movies":[
-          {
-             "titlePT":"Os Banshees de Inisherin",
-             "image":"https://m.media-amazon.com/images/M/MV5BM2NlZDI0ZDktNTg5OS00ZjQ1LWI4MDEtN2I0MDE5NWRiNzA4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_Ratio0.6757_AL_.jpg"
-            },
-            {
-               "titlePT":"Triângulo da Tristeza",
-               "image":"https://m.media-amazon.com/images/M/MV5BNDRiZjc0ZDMtMjhlYi00ZjAzLTg0MDQtZDI2NGEyYTBlN2M2XkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_Ratio0.6757_AL_.jpg"
-            },
-            {
-               "titlePT":"Tudo em Todo o Lugar Ao Mesmo Tempo",
-               "image":"https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_Ratio0.7027_AL_.jpg"
-            },
-          {
-             "titlePT":"Os Fabelmans",
-             "image":"https://m.media-amazon.com/images/M/MV5BZGM1MzczNmQtMjBmYS00NTRhLWI0MzctNTFkZDc4OGUyODdjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "id":"tt1745960",
-             "titlePT":"Tár",
-             "image":"https://m.media-amazon.com/images/M/MV5BM2I0ZDcyYzItMGEyNi00YWVhLTlmNTQtOWVlYjE1ZGVhNWM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6757_AL_.jpg"
-          }
-       ]
-    },
-    {
-      "categoryName":"Melhor Atriz Coadjuvante",
-      "movies":[
-         {
-            "titlePT":"Angela Bassett - Pantera Negra: Wakanda Para Sempre",
-            "image":"https://m.media-amazon.com/images/M/MV5BMjI4OTQ1NTcxOF5BMl5BanBnXkFtZTcwOTc1NTU0OQ@@._V1_Ratio0.7273_AL_.jpg"
-         },
-         {
-            "titlePT":"Jamie Lee Curtis - Tudo em Todo o Lugar Ao Mesmo Tempo",
-            "image":"https://m.media-amazon.com/images/M/MV5BMjI0MTI0MDk2OV5BMl5BanBnXkFtZTgwODQ4MTE0NDE@._V1_Ratio0.7273_AL_.jpg"
-         },
-         {
-            "titlePT":"Stephanie Hsu - Tudo em Todo o Lugar Ao Mesmo Tempo",
-            "image":"https://m.media-amazon.com/images/M/MV5BNmMxMjI0ZGItYThmMi00YTM0LTg5M2QtNTQxOTdmM2I5NDg3XkEyXkFqcGdeQXVyNTU0MjY5MjE@._V1_Ratio0.7273_AL_.jpg"
-         },
-         {
-            "titlePT":"Kerry Condon - Os Banshees de Inisherin",
-            "image":"https://m.media-amazon.com/images/M/MV5BMTY5NjgyNDU3OV5BMl5BanBnXkFtZTgwNzA4NDczNjE@._V1_Ratio0.7727_AL_.jpg"
-         },
-         {
-            "titlePT":"Hong Chau - A Baleia",
-            "image":"https://m.media-amazon.com/images/M/MV5BNjllNmMzNWYtM2JjMS00ODg4LTk2OWEtYWE3OTc1NzMzMGM2XkEyXkFqcGdeQXVyNTc0NTQ3MQ@@._V1_Ratio0.7273_AL_.jpg"
-         }     
-      ]
-   },
-   {
-      "categoryName":"Melhor Ator Coadjuvante",
-      "movies":[
-         {
-            "titlePT":"Ke Huy Quan - Tudo em Todo o Lugar Ao Mesmo Tempo",
-            "image":"https://m.media-amazon.com/images/M/MV5BMmMyN2MxMjQtNDFjYi00MTE3LTgwYTMtZmQzODUyZGUwYmExXkEyXkFqcGdeQXVyMTM5NDUxMTA@._V1_Ratio0.7273_AL_.jpg"
-         },     
-         {
-            "titlePT":"Brendan Gleeson - Os Banshees de Inisherin",
-            "image":"https://m.media-amazon.com/images/M/MV5BMTA3NTMxODI0OTBeQTJeQWpwZ15BbWU3MDQ1NTY5Mjc@._V1_Ratio0.7273_AL_.jpg"
-         },
-         {
-            "titlePT":"Brian Tyree Henry - Passagem",
-            "image":"https://m.media-amazon.com/images/M/MV5BMGVjNDQxNjEtYmJhMy00ZjZkLTg0YjYtYjNkOTdjZGJkYWM4XkEyXkFqcGdeQXVyMjE0NjY2NTA@._V1_Ratio1.0455_AL_.jpg"
-         },
-         {
-            "titlePT":"Judd Hirsch - Os Fabelmans",
-            "image":"https://m.media-amazon.com/images/M/MV5BMTE5MTQ2MTkwNl5BMl5BanBnXkFtZTYwNTc1ODA3._V1_Ratio0.7273_AL_.jpg"
-         },
-         {
-            "titlePT":"Barry Keoghan - Os Banshees de Inisherin",
-            "image":"https://m.media-amazon.com/images/M/MV5BMTcyNzEzMjY4NV5BMl5BanBnXkFtZTgwOTMzOTA5MjI@._V1_Ratio0.7273_AL_.jpg"
-         }
-      ]
-   },
-    {
-       "categoryName":"Melhor Roteiro Adaptado",
-       "movies":[
-          {
-             "titlePT":"Living",
-             "image":"https://m.media-amazon.com/images/M/MV5BMTM3OTU0ZGUtNzYwYy00ODU3LWI3YjgtOWZlODliMmRiMWEzXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Top Gun: Maverick",
-             "image":"https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Entre Mulheres",
-             "image":"https://m.media-amazon.com/images/M/MV5BYTZmMmQ4OWYtM2JmNC00NzY0LWJhODUtOTRmMWMyOTU4OWQ4XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Glass Onion: A Knives Out Mystery",
-             "image":"https://m.media-amazon.com/images/M/MV5BYmZlZDZkZjYtNzE5Mi00ODFhLTk2OTgtZWVmODBiZTI4NGFiXkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_Ratio0.6762_AL_.jpg"
-          },
-          {
-             "titlePT":"Nada de Novo no Front",
-             "image":"https://m.media-amazon.com/images/M/MV5BMzM4ZDJhYjYtZGY5Ny00NTk0LWI4ZTYtNjczZDFiMGI2ZjEzXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_Ratio0.6757_AL_.jpg"
-          }
-       ]
-    },
-    {
-       "categoryName":"Melhor Trilha Sonora Original",
-       "movies":[
-          {
-             "titlePT":"Babilônia ",
-             "image":"https://m.media-amazon.com/images/M/MV5BNjlkYjc4NGMtZjc3MS00NjQ3LTk4MmUtMTkwZGZjODE1ZDVlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Tudo em Todo o Lugar Ao Mesmo Tempo",
-             "image":"https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_Ratio0.7027_AL_.jpg"
-          },
-          {
-             "titlePT":"Os Banshees de Inisherin",
-             "image":"https://m.media-amazon.com/images/M/MV5BM2NlZDI0ZDktNTg5OS00ZjQ1LWI4MDEtN2I0MDE5NWRiNzA4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Os Fabelmans",
-             "image":"https://m.media-amazon.com/images/M/MV5BZGM1MzczNmQtMjBmYS00NTRhLWI0MzctNTFkZDc4OGUyODdjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Nada de Novo no Front",
-             "image":"https://m.media-amazon.com/images/M/MV5BMzM4ZDJhYjYtZGY5Ny00NTk0LWI4ZTYtNjczZDFiMGI2ZjEzXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_Ratio0.6757_AL_.jpg"
-          }
-       ]
-    },
-    {
-       "categoryName":"Melhor Fotografia",
-       "movies":[
-          {
-             "titlePT":"Império da Luz ",
-             "image":"https://m.media-amazon.com/images/M/MV5BYjM5NzUxOWMtZjhkNC00M2ZmLTk2NzItOTQ1YWI3MGQ1YjBiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Nada de Novo no Front",
-             "image":"https://m.media-amazon.com/images/M/MV5BMzM4ZDJhYjYtZGY5Ny00NTk0LWI4ZTYtNjczZDFiMGI2ZjEzXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Bardo, Falsa Crônica de Algumas Verdades",
-             "image":"https://m.media-amazon.com/images/M/MV5BNGE3ZDlhNmEtYzEzNy00ZWZhLThkM2ItZmY1NTViZGFjZTVkXkEyXkFqcGdeQXVyODY5Njk4Njc@._V1_Ratio0.8043_AL_.jpg"
-          },
-          {
-             "titlePT":"Elvis",
-             "image":"https://m.media-amazon.com/images/M/MV5BYzMzNTJjYmMtZTkxNS00MjI4LWI3YmQtOTQ4MDZjZDJlZjQyXkEyXkFqcGdeQXVyNjc0NzQzNTM@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Tár",
-             "image":"https://m.media-amazon.com/images/M/MV5BM2I0ZDcyYzItMGEyNi00YWVhLTlmNTQtOWVlYjE1ZGVhNWM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6757_AL_.jpg"
-          }
-       ]
-    },
-    {
-       "categoryName":"Melhor Maquiagem e Penteados",
-       "movies":[
-          {
-             "titlePT":"Nada de Novo no Front",
-             "image":"https://m.media-amazon.com/images/M/MV5BMzM4ZDJhYjYtZGY5Ny00NTk0LWI4ZTYtNjczZDFiMGI2ZjEzXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_Ratio0.6757_AL_.jpg"
-            },
-            {
-               "titlePT":"Elvis",
-               "image":"https://m.media-amazon.com/images/M/MV5BYzMzNTJjYmMtZTkxNS00MjI4LWI3YmQtOTQ4MDZjZDJlZjQyXkEyXkFqcGdeQXVyNjc0NzQzNTM@._V1_Ratio0.6757_AL_.jpg"
-            },
-            {
-               "titlePT":"Pantera Negra: Wakanda Para Sempre",
-               "image":"https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6757_AL_.jpg"
-            },
-          {
-             "titlePT":"A Baleia",
-             "image":"https://m.media-amazon.com/images/M/MV5BZDQ4Njg4YTctNGZkYi00NWU1LWI4OTYtNmNjOWMyMjI1NWYzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_Ratio0.7027_AL_.jpg"
-          },
-          {
-             "titlePT":"Batman",
-             "image":"https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_Ratio0.6757_AL_.jpg"
-          }
-       ]
-    },
-    {
-       "categoryName":"Melhor Direção de Arte",
-       "movies":[
-          {
-             "titlePT":"Babilônia ",
-             "image":"https://m.media-amazon.com/images/M/MV5BNjlkYjc4NGMtZjc3MS00NjQ3LTk4MmUtMTkwZGZjODE1ZDVlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Os Fabelmans",
-             "image":"https://m.media-amazon.com/images/M/MV5BZGM1MzczNmQtMjBmYS00NTRhLWI0MzctNTFkZDc4OGUyODdjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Nada de Novo no Front",
-             "image":"https://m.media-amazon.com/images/M/MV5BMzM4ZDJhYjYtZGY5Ny00NTk0LWI4ZTYtNjczZDFiMGI2ZjEzXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Avatar: O Caminho da Água",
-             "image":"https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_Ratio0.7027_AL_.jpg"
-          },
-          {
-             "titlePT":"Elvis",
-             "image":"https://m.media-amazon.com/images/M/MV5BYzMzNTJjYmMtZTkxNS00MjI4LWI3YmQtOTQ4MDZjZDJlZjQyXkEyXkFqcGdeQXVyNjc0NzQzNTM@._V1_Ratio0.6757_AL_.jpg"
-          }
-       ]
-    },
-    {
-       "categoryName":"Melhor Montagem",
-       "movies":[
-          {
-             "titlePT":"Top Gun: Maverick",
-             "image":"https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Tudo em Todo o Lugar Ao Mesmo Tempo",
-             "image":"https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_Ratio0.7027_AL_.jpg"
-          },
-          {
-             "titlePT":"Os Banshees de Inisherin",
-             "image":"https://m.media-amazon.com/images/M/MV5BM2NlZDI0ZDktNTg5OS00ZjQ1LWI4MDEtN2I0MDE5NWRiNzA4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Elvis",
-             "image":"https://m.media-amazon.com/images/M/MV5BYzMzNTJjYmMtZTkxNS00MjI4LWI3YmQtOTQ4MDZjZDJlZjQyXkEyXkFqcGdeQXVyNjc0NzQzNTM@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Tár",
-             "image":"https://m.media-amazon.com/images/M/MV5BM2I0ZDcyYzItMGEyNi00YWVhLTlmNTQtOWVlYjE1ZGVhNWM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6757_AL_.jpg"
-          }
-       ]
-    },
-    {
-       "categoryName":"Melhor Figurino",
-       "movies":[
-          {
-             "titlePT":"Babilônia ",
-             "image":"https://m.media-amazon.com/images/M/MV5BNjlkYjc4NGMtZjc3MS00NjQ3LTk4MmUtMTkwZGZjODE1ZDVlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Sra. Harris vai a Paris",
-             "image":"https://m.media-amazon.com/images/M/MV5BY2UyOWJjMWEtNmIwYS00ZjM5LWEyYjMtMTI4NDBhMzViNmIyXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_Ratio0.7027_AL_.jpg"
-          },
-          {
-             "titlePT":"Pantera Negra: Wakanda Para Sempre",
-             "image":"https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Tudo em Todo o Lugar Ao Mesmo Tempo",
-             "image":"https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_Ratio0.7027_AL_.jpg"
-          },
-          {
-             "titlePT":"Elvis",
-             "image":"https://m.media-amazon.com/images/M/MV5BYzMzNTJjYmMtZTkxNS00MjI4LWI3YmQtOTQ4MDZjZDJlZjQyXkEyXkFqcGdeQXVyNjc0NzQzNTM@._V1_Ratio0.6757_AL_.jpg"
-          }
-       ]
-    },
-    {
-       "categoryName":"Melhor Som",
-       "movies":[
-          {
-             "titlePT":"Top Gun: Maverick",
-             "image":"https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Nada de Novo no Front",
-             "image":"https://m.media-amazon.com/images/M/MV5BMzM4ZDJhYjYtZGY5Ny00NTk0LWI4ZTYtNjczZDFiMGI2ZjEzXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Avatar: O Caminho da Água",
-             "image":"https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_Ratio0.7027_AL_.jpg"
-          },
-          {
-             "titlePT":"Elvis",
-             "image":"https://m.media-amazon.com/images/M/MV5BYzMzNTJjYmMtZTkxNS00MjI4LWI3YmQtOTQ4MDZjZDJlZjQyXkEyXkFqcGdeQXVyNjc0NzQzNTM@._V1_Ratio0.6757_AL_.jpg"
-          },
-          {
-             "titlePT":"Batman",
-             "image":"https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_Ratio0.6757_AL_.jpg"
-          }
-       ]
-    }
- ]
+  {
+     "categoryName": "Melhor Filme",
+     "movies": [
+        {
+           "titlePT": "Bugonia",
+           "image": "https://image.tmdb.org/t/p/original/6OeJbx1QGDwrlL8SPZeLKjLhhA7.jpg"
+        },
+        {
+           "titlePT": "F1 - O Filme",
+           "image": "https://image.tmdb.org/t/p/original/fMcY5hpVZQ0cLKHvFM1mo6GrAr0.jpg"
+        },
+        {
+           "titlePT": "Frankenstein",
+           "image": "https://image.tmdb.org/t/p/original/cXsMxClCcAF1oMwoXZvbKwWoNeS.jpg"
+        },
+        {
+           "titlePT": "Hamnet",
+           "image": "https://image.tmdb.org/t/p/original/njatIGrIlZCxB88UUBC2xgmfCNE.jpg"
+        },
+        {
+           "titlePT": "Marty Supreme",
+           "image": "https://image.tmdb.org/t/p/original/oLWBW1Sg9V8KGgbR3Y8jeEWF2Gi.jpg"
+        },
+        {
+           "titlePT": "Uma Batalha Após a Outra",
+           "image": "https://image.tmdb.org/t/p/original/a1a2JYoBTchMy1stqpSHxS5MMle.jpg"
+        },
+        {
+           "titlePT": "O Agente Secreto",
+           "image": "https://image.tmdb.org/t/p/original/t1DQ4XXIqTm5LvUjz8jypN43JjZ.jpg"
+        },
+        {
+           "titlePT": "Valor Sentimental",
+           "image": "https://image.tmdb.org/t/p/original/pTMpLRfB9wUaQ8CEdGEUkyVXwOo.jpg"
+        },
+        {
+           "titlePT": "Pecadores",
+           "image": "https://image.tmdb.org/t/p/original/eElQspcoyIZl6ZyBASiVS8o4V0J.jpg"
+        },
+        {
+           "titlePT": "Sonhos de Trem",
+           "image": "https://image.tmdb.org/t/p/original/iF1SxvdSNWkEfKlZnLzJbSsg4oT.jpg"
+        }
+     ]
+  },
+  {
+     "categoryName": "Melhor Ator",
+     "movies": [
+        {
+           "titlePT": "Leonardo DiCaprio - Uma Batalha Após a Outra",
+           "image": "https://image.tmdb.org/t/p/original/vo4fltT9zZ1kH8nhLetz8MED6jp.jpg"
+        },
+        {
+           "titlePT": "Timothée Chalamet - Marty Supreme",
+           "image": "https://image.tmdb.org/t/p/w500/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
+        },
+        {
+           "titlePT": "Ethan Hawke - Blue Moon",
+           "image": "https://image.tmdb.org/t/p/original/tetqNmgcHmmtVjCag1clynK20F6.jpg"
+        },
+        {
+           "titlePT": "Michael B. Jordan - Pecadores",
+           "image": "https://image.tmdb.org/t/p/original/515xNvaMC6xOEOlo0sFqW69ZqUH.jpg"
+        },
+        {
+           "titlePT": "Wagner Moura - O Agente Secreto",
+           "image": "https://image.tmdb.org/t/p/original/yJjV1ZCQbCSSgRy05FncCKjyaY4.jpg"
+        }
+     ]
+  },
+  {
+     "categoryName": "Melhor Atriz",
+     "movies": [
+        {
+           "titlePT": "Jessie Buckley - Hamnet ",
+           "image": "https://image.tmdb.org/t/p/original/i8IlkFbZqKUgkypZKpdhrw00uqw.jpg"
+        },
+        {
+           "titlePT": "Rose Byrne - Se Eu Tivesse Pernas, Eu Te Chutaria",
+           "image": "https://image.tmdb.org/t/p/original/6YauDiiTBwRGC1xnwspPmNvPWUu.jpg"
+        },
+        {
+           "titlePT": "Kate Hudson - Song Sung Blue",
+           "image": "https://image.tmdb.org/t/p/original/s79lH1QzEg2fkXULKBxRmU9aNr8.jpg"
+        },
+        {
+           "titlePT": "Renate Reinsve - Valor Sentimental",
+           "image": "https://image.tmdb.org/t/p/original/CoWdGzUzMSDe5lo98EH2AsP1Sq.jpg"
+        },
+        {
+           "titlePT": "Emma Stone - Bugonia",
+           "image": "https://image.tmdb.org/t/p/original/s7PVcnnA05JcRiMtplwgK49Z2UU.jpg"
+        }
+     ]
+  },
+  {
+     "categoryName": "Melhor Filme Internacional",
+     "movies": [
+        {
+           "titlePT": "O Agente Secreto",
+           "image": "https://image.tmdb.org/t/p/original/t1DQ4XXIqTm5LvUjz8jypN43JjZ.jpg"
+        },
+        {
+           "titlePT": "Foi Apenas um Acidente",
+           "image": "https://image.tmdb.org/t/p/original/uFJVkYiiVqaYE3wJYsqE3oWUiLK.jpg"
+        },
+        {
+           "titlePT": "Valor Sentimental",
+           "image": "https://image.tmdb.org/t/p/original/pTMpLRfB9wUaQ8CEdGEUkyVXwOo.jpg"
+        },
+        {
+           "titlePT": "Sirāt",
+           "image": "https://image.tmdb.org/t/p/original/zXB71lnNiNPoOwLHjkCtsV7gng3.jpg"
+        },
+        {
+           "titlePT": "A Voz de Hind Rajab",
+           "image": "https://image.tmdb.org/t/p/original/s79PkUkRl601v4dVU38Sp1BeKbi.jpg"
+        }
+     ]
+  },
+  {
+     "categoryName": "Melhor Canção Orignal",
+     "movies": [
+        {
+           "titlePT": "Dear Me - Diane Warren: Relentless",
+           "image": "https://image.tmdb.org/t/p/original/uhfvnmtq6cgpI038YrRsgmThb2D.jpg"
+        },
+        {
+           "titlePT": "GOLDEN - As Guerreiras do K-Pop",
+           "image": "https://image.tmdb.org/t/p/original/gbdMa7woiuF7IiEB5Spwv5od4oo.jpg"
+        },
+        {
+           "titlePT": "Lied to You - Pecadores",
+           "image": "https://image.tmdb.org/t/p/original/eElQspcoyIZl6ZyBASiVS8o4V0J.jpg"
+        },
+        {
+           "titlePT": "Sweet Dreams of Joy - Viva Verdi!",
+           "image": "https://image.tmdb.org/t/p/original/l2IIanbP4HVxL9yginZzT73kE9j.jpg"
+        },
+        {
+           "titlePT": "Train Dreams - Sonhos de Trem",
+           "image": "https://image.tmdb.org/t/p/original/iF1SxvdSNWkEfKlZnLzJbSsg4oT.jpg"
+        }
+     ]
+  },
+  {
+     "categoryName": "Melhor Filme de Animação",
+     "movies": [
+        {
+           "titlePT": "Arco",
+           "image": "https://image.tmdb.org/t/p/original/tXyehDTf8UU6bRpEHDzVBU3nZES.jpg"
+        },
+        {
+           "titlePT": "Elio",
+           "image": "https://image.tmdb.org/t/p/original/2H8k54MWPQtsxWkQhR2HVfT34ty.jpg"
+        },
+        {
+           "titlePT": "As Guerreiras do K-Pop",
+           "image": "https://image.tmdb.org/t/p/original/gbdMa7woiuF7IiEB5Spwv5od4oo.jpg"
+        },
+        {
+           "titlePT": "A Pequena Amélie",
+           "image": "https://image.tmdb.org/t/p/original/eAYK2NnOuaRkH8eMYjuzv1DthAT.jpg"
+        },
+        {
+           "titlePT": "Zootopia 2",
+           "image": "https://image.tmdb.org/t/p/original/4acLcG3TFrgZ82qZtrP9ZqJ8QZS.jpg"
+        }
+     ]
+  },
+  {
+     "categoryName": "Melhor Direção",
+     "movies": [
+        {
+           "titlePT": "Chloé Zhao - Hamnet",
+           "image": "https://image.tmdb.org/t/p/original/4Zmu4uigEtq5qAwJKQZW5e2QhDg.jpg"
+        },
+        {
+           "titlePT": "Josh Safdie - Marty Supreme",
+           "image": "https://image.tmdb.org/t/p/original/bNYM97KLLVoICe3fZt6bKbvXV8d.jpg"
+        },
+        {
+           "titlePT": "Paul Thomas Anderson - Uma Batalha Após a Outra",
+           "image": "https://image.tmdb.org/t/p/original/yuUbVRzMLSlL7OSEEbbIV3bI9Tm.jpg"
+        },
+        {
+           "titlePT": "Joaquim Trier - Valor Sentimental",
+           "image": "https://image.tmdb.org/t/p/original/o5KXJRWbzyGYSxDhXsBqbCiZnqU.jpg"
+        },
+        {
+           "titlePT": "Ryan Coogler - Pecadores",
+           "image": "https://image.tmdb.org/t/p/original/dux4DCDaL6c639DTXGiV7nm1wcN.jpg"
+        }
+     ]
+  },
+  {
+     "categoryName": "Melhores Efeitos Visuais",
+     "movies": [
+        {
+           "titlePT": "Avatar: Fogo e Cinzas",
+           "image": "https://image.tmdb.org/t/p/original/9k2zKeUfcKkAz1dGt5MP6dZMm4G.jpg"
+        },
+        {
+           "titlePT": "F1 - O Filme",
+           "image": "https://image.tmdb.org/t/p/original/fMcY5hpVZQ0cLKHvFM1mo6GrAr0.jpg"
+        },
+        {
+           "titlePT": "Jurassic World: Recomeço",
+           "image": "https://image.tmdb.org/t/p/original/zuEC2i3I2P7QIcLoUJNBwqRYO4S.jpg"
+        },
+        {
+           "titlePT": "O Ônibus Perdido",
+           "image": "https://image.tmdb.org/t/p/w500/xncPDbNFr9YnZqaB6Ht9uItaoZO.jpg"
+        },
+        {
+           "titlePT": "Pecadores",
+           "image": "https://image.tmdb.org/t/p/original/eElQspcoyIZl6ZyBASiVS8o4V0J.jpg"
+        }
+     ]
+  },
+  {
+     "categoryName": "Melhor Roteiro Original",
+     "movies": [
+        {
+           "titlePT": "Blue Moon",
+           "image": "https://image.tmdb.org/t/p/original/9RpNqMynVFX0FdEuYZMcxuVNEBy.jpg"
+        },
+        {
+           "titlePT": "Foi Apenas um Acidente",
+           "image": "https://image.tmdb.org/t/p/original/uFJVkYiiVqaYE3wJYsqE3oWUiLK.jpg"
+        },
+        {
+           "titlePT": "Marty Supreme",
+           "image": "https://image.tmdb.org/t/p/original/oLWBW1Sg9V8KGgbR3Y8jeEWF2Gi.jpg"
+        },
+        {
+           "titlePT": "Valor Sentimental",
+           "image": "https://image.tmdb.org/t/p/original/pTMpLRfB9wUaQ8CEdGEUkyVXwOo.jpg"
+        },
+        {
+           "titlePT": "Pecadores",
+           "image": "https://image.tmdb.org/t/p/original/eElQspcoyIZl6ZyBASiVS8o4V0J.jpg"
+        }
+     ]
+  },
+  {
+     "categoryName": "Melhor Atriz Coadjuvante",
+     "movies": [
+        {
+           "titlePT": "Elle Fanning - Valor Sentimental",
+           "image": "https://image.tmdb.org/t/p/original/e8CUyxQSE99y5IOfzSLtHC0B0Ch.jpg"
+        },
+        {
+           "titlePT": "Inga Ibsdotter Lilleaas - Valor Sentimental",
+           "image": "https://image.tmdb.org/t/p/original/7wGEfnBniSP15FVorQChfWhAlVi.jpg"
+        },
+        {
+           "titlePT": "Amy Madigan - A Hora do Mal",
+           "image": "https://image.tmdb.org/t/p/original/xgtQOuPAmQZXWUO2PXetNpXm08A.jpg"
+        },
+        {
+           "titlePT": "Wonmi Mosaku - Pecadores",
+           "image": "https://image.tmdb.org/t/p/original/mWDsVCo9sBcekrsjUTsoCFLhtYt.jpg"
+        },
+        {
+           "titlePT": "Teyana Taylor - Uma Batalha Após a Outra",
+           "image": "https://image.tmdb.org/t/p/original/5b2dAuTsBejBsdm9SkWX4F7jG9w.jpg"
+        }
+     ]
+  },
+  {
+     "categoryName": "Melhor Ator Coadjuvante",
+     "movies": [
+        {
+           "titlePT": "Benicio del Toro - Uma Batalha Após a Outra",
+           "image": "https://image.tmdb.org/t/p/original/hFqwUx8iKXcJoAEUdeFtIdIaD1b.jpg"
+        },
+        {
+           "titlePT": "Jacob Elordi - Frankenstein",
+           "image": "https://image.tmdb.org/t/p/original/qZNRPWCP2c5d0YaYLTzHXU9Rdoe.jpg"
+        },
+        {
+           "titlePT": "Delroy Lindo - Pecadores",
+           "image": "https://image.tmdb.org/t/p/original/kLwUBBmEIdchrLqwsYzgLB2B6q5.jpg"
+        },
+        {
+           "titlePT": "Sean Penn - Uma Batalha Após a Outra",
+           "image": "https://image.tmdb.org/t/p/original/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
+        },
+        {
+           "titlePT": "Stellan Skarsgård - Valor Sentimental",
+           "image": "https://image.tmdb.org/t/p/original/x78BtYHElirO7Iw8bL4m8CnzRDc.jpg"
+        }
+     ]
+  },
+  {
+     "categoryName": "Melhor Roteiro Adaptado",
+     "movies": [
+        {
+           "titlePT": "Bugonia",
+           "image": "https://image.tmdb.org/t/p/original/6OeJbx1QGDwrlL8SPZeLKjLhhA7.jpg"
+        },
+        {
+           "titlePT": "Frankenstein",
+           "image": "https://image.tmdb.org/t/p/original/cXsMxClCcAF1oMwoXZvbKwWoNeS.jpg"
+        },
+        {
+           "titlePT": "Hamnet",
+           "image": "https://image.tmdb.org/t/p/original/njatIGrIlZCxB88UUBC2xgmfCNE.jpg"
+        },
+        {
+           "titlePT": "Uma Batalha Após a Outra",
+           "image": "https://image.tmdb.org/t/p/original/a1a2JYoBTchMy1stqpSHxS5MMle.jpg"
+        },
+        {
+           "titlePT": "Sonhos de Trem",
+           "image": "https://image.tmdb.org/t/p/original/iF1SxvdSNWkEfKlZnLzJbSsg4oT.jpg"
+        }
+     ]
+  },
+  {
+     "categoryName": "Melhor Trilha Sonora Original",
+     "movies": [
+        {
+           "titlePT": "Bugonia",
+           "image": "https://image.tmdb.org/t/p/original/6OeJbx1QGDwrlL8SPZeLKjLhhA7.jpg"
+        },
+        {
+           "titlePT": "Frankenstein",
+           "image": "https://image.tmdb.org/t/p/original/cXsMxClCcAF1oMwoXZvbKwWoNeS.jpg"
+        },
+        {
+           "titlePT": "Hamnet",
+           "image": "https://image.tmdb.org/t/p/original/njatIGrIlZCxB88UUBC2xgmfCNE.jpg"
+        },
+        {
+          "titlePT": "Uma Batalha Após a Outra",
+           "image": "https://image.tmdb.org/t/p/original/a1a2JYoBTchMy1stqpSHxS5MMle.jpg"
+        },
+        {
+           "titlePT": "Pecadores",
+           "image": "https://image.tmdb.org/t/p/original/eElQspcoyIZl6ZyBASiVS8o4V0J.jpg"
+        }
+     ]
+  },
+  {
+     "categoryName": "Melhor Fotografia",
+     "movies": [
+        {
+           "titlePT": "Frankenstein",
+           "image": "https://image.tmdb.org/t/p/original/cXsMxClCcAF1oMwoXZvbKwWoNeS.jpg"
+        },
+        {
+           "titlePT": "Marty Supreme",
+           "image": "https://image.tmdb.org/t/p/original/oLWBW1Sg9V8KGgbR3Y8jeEWF2Gi.jpg"
+        },
+        {
+           "titlePT": "Uma Batalha Após a Outra",
+           "image": "https://image.tmdb.org/t/p/original/a1a2JYoBTchMy1stqpSHxS5MMle.jpg"
+        },
+        {
+           "titlePT": "Pecadores",
+           "image": "https://image.tmdb.org/t/p/original/eElQspcoyIZl6ZyBASiVS8o4V0J.jpg"
+        },
+        {
+           "titlePT": "Sonhos de Trem",
+           "image": "https://image.tmdb.org/t/p/original/iF1SxvdSNWkEfKlZnLzJbSsg4oT.jpg"
+        }
+     ]
+  },
+  {
+     "categoryName": "Melhor Cabelo e Maquiagem",
+     "movies": [
+        {
+           "titlePT": "Frankenstein",
+           "image": "https://image.tmdb.org/t/p/original/cXsMxClCcAF1oMwoXZvbKwWoNeS.jpg"
+        },
+        {
+           "titlePT": "Kokuho",
+           "image": "https://image.tmdb.org/t/p/original/egDmNUBcSvu6aqQPCfyd1UneCYr.jpg"
+        },
+        {
+           "titlePT": "Pecadores",
+           "image": "https://image.tmdb.org/t/p/original/eElQspcoyIZl6ZyBASiVS8o4V0J.jpg"
+        },
+        {
+           "titlePT": "Coração de Lutador: The Smashing Machine",
+           "image": "https://image.tmdb.org/t/p/original/eTL21IzXn7BHB0jsMe9xPgMHfHE.jpg"
+        },
+        {
+           "titlePT": "A Meia-Irmã Feia",
+           "image": "https://image.tmdb.org/t/p/original/2dEoQ2eWk3evQQBNUxPnZsPDq1N.jpg"
+        }
+     ]
+  },
+  {
+     "categoryName": "Melhor Direção de Arte",
+     "movies": [
+        {
+           "titlePT": "Frankenstein",
+           "image": "https://image.tmdb.org/t/p/original/cXsMxClCcAF1oMwoXZvbKwWoNeS.jpg"
+        },
+        {
+           "titlePT": "Hamnet",
+           "image": "https://image.tmdb.org/t/p/original/njatIGrIlZCxB88UUBC2xgmfCNE.jpg"
+        },
+        {
+           "titlePT": "Marty Supreme",
+           "image": "https://image.tmdb.org/t/p/original/oLWBW1Sg9V8KGgbR3Y8jeEWF2Gi.jpg"
+        },
+        {
+           "titlePT": "Uma Batalha Após a Outra",
+           "image": "https://image.tmdb.org/t/p/original/a1a2JYoBTchMy1stqpSHxS5MMle.jpg"
+        },
+        {
+           "titlePT": "Pecadores",
+           "image": "https://image.tmdb.org/t/p/original/eElQspcoyIZl6ZyBASiVS8o4V0J.jpg"
+        }
+     ]
+  },
+  {
+     "categoryName": "Melhor Montagem",
+     "movies": [
+        {
+           "titlePT": "F1 - O Filme",
+           "image": "https://image.tmdb.org/t/p/original/fMcY5hpVZQ0cLKHvFM1mo6GrAr0.jpg"
+        },
+        {
+           "titlePT": "Marty Supreme",
+           "image": "https://image.tmdb.org/t/p/original/oLWBW1Sg9V8KGgbR3Y8jeEWF2Gi.jpg"
+        },
+        {
+           "titlePT": "Uma Batalha Após a Outra",
+           "image": "https://image.tmdb.org/t/p/original/a1a2JYoBTchMy1stqpSHxS5MMle.jpg"
+        },
+        {
+           "titlePT": "Valor Sentimental",
+           "image": "https://image.tmdb.org/t/p/original/pTMpLRfB9wUaQ8CEdGEUkyVXwOo.jpg"
+        },
+        {
+           "titlePT": "Pecadores",
+           "image": "https://image.tmdb.org/t/p/original/eElQspcoyIZl6ZyBASiVS8o4V0J.jpg"
+        }
+     ]
+  },
+  {
+     "categoryName": "Melhor Figurino",
+     "movies": [
+        {
+           "titlePT": "Avatar: Fogo e Cinzas",
+           "image": "https://image.tmdb.org/t/p/original/9k2zKeUfcKkAz1dGt5MP6dZMm4G.jpg"
+        },
+        {
+           "titlePT": "Frankenstein",
+           "image": "https://image.tmdb.org/t/p/original/cXsMxClCcAF1oMwoXZvbKwWoNeS.jpg"
+        },
+        {
+           "titlePT": "Hamnet",
+           "image": "https://image.tmdb.org/t/p/original/njatIGrIlZCxB88UUBC2xgmfCNE.jpg"
+        },
+        {
+           "titlePT": "Marty Supreme",
+           "image": "https://image.tmdb.org/t/p/original/oLWBW1Sg9V8KGgbR3Y8jeEWF2Gi.jpg"
+        },
+        {
+           "titlePT": "Pecadores",
+           "image": "https://image.tmdb.org/t/p/original/eElQspcoyIZl6ZyBASiVS8o4V0J.jpg"
+        }
+     ]
+  },
+  {
+     "categoryName": "Melhor Som",
+     "movies": [
+        {
+           "titlePT": "F1 - O Filme",
+           "image": "https://image.tmdb.org/t/p/original/fMcY5hpVZQ0cLKHvFM1mo6GrAr0.jpg"
+        },
+        {
+           "titlePT": "Frankenstein",
+           "image": "https://image.tmdb.org/t/p/original/cXsMxClCcAF1oMwoXZvbKwWoNeS.jpg"
+        },
+        {
+           "titlePT": "Uma Batalha Após a Outra",
+           "image": "https://image.tmdb.org/t/p/original/a1a2JYoBTchMy1stqpSHxS5MMle.jpg"
+        },
+        {
+           "titlePT": "Pecadores",
+           "image": "https://image.tmdb.org/t/p/original/eElQspcoyIZl6ZyBASiVS8o4V0J.jpg"
+        },
+        {
+           "titlePT": "Sirāt",
+           "image": "https://image.tmdb.org/t/p/original/zXB71lnNiNPoOwLHjkCtsV7gng3.jpg"
+        }
+     ]
+  },
+  {
+     "categoryName": "Melhor Direção de Elenco",
+     "movies": [
+        {
+           "titlePT": "Hamnet",
+           "image": "https://image.tmdb.org/t/p/original/njatIGrIlZCxB88UUBC2xgmfCNE.jpg"
+        },
+        {
+           "titlePT": "Marty Supreme",
+           "image": "https://image.tmdb.org/t/p/original/oLWBW1Sg9V8KGgbR3Y8jeEWF2Gi.jpg"
+        },
+        {
+           "titlePT": "Uma Batalha Após a Outra",
+           "image": "https://image.tmdb.org/t/p/original/a1a2JYoBTchMy1stqpSHxS5MMle.jpg"
+        },
+        {
+           "titlePT": "Pecadores",
+           "image": "https://image.tmdb.org/t/p/original/eElQspcoyIZl6ZyBASiVS8o4V0J.jpg"
+        },
+        {
+           "titlePT": "O Agente Secreto",
+           "image": "https://image.tmdb.org/t/p/original/t1DQ4XXIqTm5LvUjz8jypN43JjZ.jpg"
+        }
+     ]
+  }
+]

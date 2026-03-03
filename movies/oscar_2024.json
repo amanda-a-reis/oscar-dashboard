@@ -1,497 +1,522 @@
 [
     {
-        "categoryName": "Melhor Filme",
-        "movies": [
-            {
-                "titlePT": "Anora",
-                "image": "https://image.tmdb.org/t/p/w500/xmFdNzbUiT5XmH6rbIVGYDQHGeo.jpg"
-            },
-            {
-                "titlePT": "O Brutalista",
-                "image": "https://image.tmdb.org/t/p/w500/tsVRsCGJ4bZG1xWfQkUgt71ystL.jpg"
-            },
-            {
-                "titlePT": "Um Completo Desconhecido",
-                "image": "https://image.tmdb.org/t/p/w500/tXNPJ3XvF4RaEV66Qm9QO3pu3w7.jpg"
-            },
-            {
-                "titlePT": "Conclave",
-                "image": "https://image.tmdb.org/t/p/w500/xS5SK7EVPCmsFAOT48rCsJesmkP.jpg"
-            },
-            {
-                "titlePT": "Duna: Parte 2",
-                "image": "https://image.tmdb.org/t/p/w500/8LJJjLjAzAwXS40S5mx79PJ2jSs.jpg"
-            },
-            {
-                "titlePT": "Emilia Pérez",
-                "image": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg"
-            },
-            {
-                "titlePT": "Ainda Estou Aqui",
-                "image": "https://image.tmdb.org/t/p/w500/vpdRMPjZKnVyACTVRIQMKJ44RfG.jpg"
-            },
-            {
-                "titlePT": "Nickel Boys",
-                "image": "https://image.tmdb.org/t/p/w500/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg"
-            },
-            {
-                "titlePT": "A Substância",
-                "image": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg"
-            },
-            {
-                "titlePT": "Wicked",
-                "image": "https://image.tmdb.org/t/p/w500/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg"
-            }
-        ]
+       "categoryName": "Melhor Filme",
+       "movies": [
+          {
+             "titlePT": "Bugonia",
+             "image": "https://image.tmdb.org/t/p/original/6OeJbx1QGDwrlL8SPZeLKjLhhA7.jpg"
+          },
+          {
+             "titlePT": "F1 - O Filme",
+             "image": "https://image.tmdb.org/t/p/original/fMcY5hpVZQ0cLKHvFM1mo6GrAr0.jpg"
+          },
+          {
+             "titlePT": "Frankenstein",
+             "image": "https://image.tmdb.org/t/p/original/cXsMxClCcAF1oMwoXZvbKwWoNeS.jpg"
+          },
+          {
+             "titlePT": "Hamnet",
+             "image": "https://image.tmdb.org/t/p/original/njatIGrIlZCxB88UUBC2xgmfCNE.jpg"
+          },
+          {
+             "titlePT": "Marty Supreme",
+             "image": "https://image.tmdb.org/t/p/original/oLWBW1Sg9V8KGgbR3Y8jeEWF2Gi.jpg"
+          },
+          {
+             "titlePT": "Uma Batalha Após a Outra",
+             "image": "https://image.tmdb.org/t/p/original/a1a2JYoBTchMy1stqpSHxS5MMle.jpg"
+          },
+          {
+             "titlePT": "O Agente Secreto",
+             "image": "https://image.tmdb.org/t/p/original/t1DQ4XXIqTm5LvUjz8jypN43JjZ.jpg"
+          },
+          {
+             "titlePT": "Valor Sentimental",
+             "image": "https://image.tmdb.org/t/p/original/pTMpLRfB9wUaQ8CEdGEUkyVXwOo.jpg"
+          },
+          {
+             "titlePT": "Pecadores",
+             "image": "https://image.tmdb.org/t/p/original/eElQspcoyIZl6ZyBASiVS8o4V0J.jpg"
+          },
+          {
+             "titlePT": "Sonhos de Trem",
+             "image": "https://image.tmdb.org/t/p/original/iF1SxvdSNWkEfKlZnLzJbSsg4oT.jpg"
+          }
+       ]
     },
     {
-        "categoryName": "Melhor Ator",
-        "movies": [
-            {
-                "titlePT": "Adrien Brody - O Brutalista",
-                "image": "https://image.tmdb.org/t/p/w500/qBc7ahQrpVpcllaZ5hkivsOEb3C.jpg"
-            },
-            {
-                "titlePT": "Timothée Chalamet - Um Completo Desconhecido",
-                "image": "https://image.tmdb.org/t/p/w500/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
-            },
-            {
-                "titlePT": "Colman Domingo - Sins Sing",
-                "image": "https://image.tmdb.org/t/p/w500/2tu6T9ugnf82qIMGVKWSb0dvvq5.jpg"
-            },
-            {
-                "titlePT": "Ralph Fiennes - Conclave",
-                "image": "https://image.tmdb.org/t/p/w500/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
-            },
-            {
-                "titlePT": "Sebastian Stan - O Aprendiz",
-                "image": "https://image.tmdb.org/t/p/w500/nKZgixTbHFXpkzzIpMFdLX98GYh.jpg"
-            }
-        ]
+       "categoryName": "Melhor Ator",
+       "movies": [
+          {
+             "titlePT": "Leonardo DiCaprio - Uma Batalha Após a Outra",
+             "image": "https://image.tmdb.org/t/p/original/vo4fltT9zZ1kH8nhLetz8MED6jp.jpg"
+          },
+          {
+             "titlePT": "Timothée Chalamet - Marty Supreme",
+             "image": "https://image.tmdb.org/t/p/w500/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
+          },
+          {
+             "titlePT": "Ethan Hawke - Blue Moon",
+             "image": "https://image.tmdb.org/t/p/original/tetqNmgcHmmtVjCag1clynK20F6.jpg"
+          },
+          {
+             "titlePT": "Michael B. Jordan - Pecadores",
+             "image": "https://image.tmdb.org/t/p/original/515xNvaMC6xOEOlo0sFqW69ZqUH.jpg"
+          },
+          {
+             "titlePT": "Wagner Moura - O Agente Secreto",
+             "image": "https://image.tmdb.org/t/p/original/yJjV1ZCQbCSSgRy05FncCKjyaY4.jpg"
+          }
+       ]
     },
     {
-        "categoryName": "Melhor Atriz",
-        "movies": [
-            {
-                "titlePT": "Cynthia Erivo - Wicked ",
-                "image": "https://image.tmdb.org/t/p/w500/bO8khhSCIPT4gK9eLn1y5pUgVIa.jpg"
-            },
-            {
-                "titlePT": "Karla Sofía Gascón - Emilia Pérez",
-                "image": "https://image.tmdb.org/t/p/w500/6gxCQ73DbVztP3DnFxks1qemoWT.jpg"
-            },
-            {
-                "titlePT": "Mikey Madison - Anora",
-                "image": "https://image.tmdb.org/t/p/w500/mYvxBOIUmAUjEZqHXBok1rc8eIC.jpg"
-            },
-            {
-                "titlePT": "Demi Moore - A Substância",
-                "image": "https://image.tmdb.org/t/p/w500/gPgZSodybMFBodw7nKRTALONIr2.jpg"
-            },
-            {
-                "titlePT": "Fernanda Torres - Ainda Estou Aqui",
-                "image": "https://image.tmdb.org/t/p/w500/dkxdADNwbM7ZLQK5YBNeKBqVJNM.jpg"
-            }
-        ]
+       "categoryName": "Melhor Atriz",
+       "movies": [
+          {
+             "titlePT": "Jessie Buckley - Hamnet ",
+             "image": "https://image.tmdb.org/t/p/original/i8IlkFbZqKUgkypZKpdhrw00uqw.jpg"
+          },
+          {
+             "titlePT": "Rose Byrne - Se Eu Tivesse Pernas, Eu Te Chutaria",
+             "image": "https://image.tmdb.org/t/p/original/6YauDiiTBwRGC1xnwspPmNvPWUu.jpg"
+          },
+          {
+             "titlePT": "Kate Hudson - Song Sung Blue",
+             "image": "https://image.tmdb.org/t/p/original/s79lH1QzEg2fkXULKBxRmU9aNr8.jpg"
+          },
+          {
+             "titlePT": "Renate Reinsve - Valor Sentimental",
+             "image": "https://image.tmdb.org/t/p/original/CoWdGzUzMSDe5lo98EH2AsP1Sq.jpg"
+          },
+          {
+             "titlePT": "Emma Stone - Bugonia",
+             "image": "https://image.tmdb.org/t/p/original/s7PVcnnA05JcRiMtplwgK49Z2UU.jpg"
+          }
+       ]
     },
     {
-        "categoryName": "Melhor Filme Internacional",
-        "movies": [
-            {
-                "titlePT": "Ainda Estou Aqui",
-                "image": "https://image.tmdb.org/t/p/w500/vpdRMPjZKnVyACTVRIQMKJ44RfG.jpg"
-            },
-            {
-                "titlePT": "A Garota da Agulha",
-                "image": "https://image.tmdb.org/t/p/w500/fbh4Xv4yr6gSRN0W5nwQ5X35hW7.jpg"
-            },
-            {
-                "titlePT": "Emilia Pérez",
-                "image": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg"
-            },
-            {
-                "titlePT": "A Semente do Fruto Sagrado",
-                "image": "https://image.tmdb.org/t/p/w500/pxHFHJ2N4BAO5t9vJJyIK0f2Wbf.jpg"
-            },
-            {
-                "titlePT": "Flow",
-                "image": "https://image.tmdb.org/t/p/w500/l5irGf3v8sTqvf9N53svIq3Z7Iv.jpg"
-            }
-        ]
+       "categoryName": "Melhor Filme Internacional",
+       "movies": [
+          {
+             "titlePT": "O Agente Secreto",
+             "image": "https://image.tmdb.org/t/p/original/t1DQ4XXIqTm5LvUjz8jypN43JjZ.jpg"
+          },
+          {
+             "titlePT": "Foi Apenas um Acidente",
+             "image": "https://image.tmdb.org/t/p/original/uFJVkYiiVqaYE3wJYsqE3oWUiLK.jpg"
+          },
+          {
+             "titlePT": "Valor Sentimental",
+             "image": "https://image.tmdb.org/t/p/original/pTMpLRfB9wUaQ8CEdGEUkyVXwOo.jpg"
+          },
+          {
+             "titlePT": "Sirāt",
+             "image": "https://image.tmdb.org/t/p/original/zXB71lnNiNPoOwLHjkCtsV7gng3.jpg"
+          },
+          {
+             "titlePT": "A Voz de Hind Rajab",
+             "image": "https://image.tmdb.org/t/p/original/s79PkUkRl601v4dVU38Sp1BeKbi.jpg"
+          }
+       ]
     },
     {
-        "categoryName": "Melhor Canção Orignal",
-        "movies": [
-            {
-                "titlePT": "El Mal - Emilia Pérez",
-                "image": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg"
-            },
-            {
-                "titlePT": "The Journey - As Mulheres do Batalhão 6888",
-                "image": "https://image.tmdb.org/t/p/w500/hSIXnORYGY3mvmxeo1JMzSnX6Yz.jpg"
-            },
-            {
-                "titlePT": "Like a Bird - Sing Sing",
-                "image": "https://image.tmdb.org/t/p/w500/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg"
-            },
-            {
-                "titlePT": "Mi Camino - Emilia Pérez",
-                "image": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg"
-            },
-            {
-                "titlePT": "Never Too Late - Elton John: Never Too Late",
-                "image": "https://image.tmdb.org/t/p/w500/s65osejJmzUqxGXHSRaDxBG16ep.jpg"
-            }
-        ]
+       "categoryName": "Melhor Canção Orignal",
+       "movies": [
+          {
+             "titlePT": "Dear Me - Diane Warren: Relentless",
+             "image": "https://image.tmdb.org/t/p/original/uhfvnmtq6cgpI038YrRsgmThb2D.jpg"
+          },
+          {
+             "titlePT": "GOLDEN - As Guerreiras do K-Pop",
+             "image": "https://image.tmdb.org/t/p/original/gbdMa7woiuF7IiEB5Spwv5od4oo.jpg"
+          },
+          {
+             "titlePT": "Lied to You - Pecadores",
+             "image": "https://image.tmdb.org/t/p/original/eElQspcoyIZl6ZyBASiVS8o4V0J.jpg"
+          },
+          {
+             "titlePT": "Sweet Dreams of Joy - Viva Verdi!",
+             "image": "https://image.tmdb.org/t/p/original/l2IIanbP4HVxL9yginZzT73kE9j.jpg"
+          },
+          {
+             "titlePT": "Train Dreams - Sonhos de Trem",
+             "image": "https://image.tmdb.org/t/p/original/iF1SxvdSNWkEfKlZnLzJbSsg4oT.jpg"
+          }
+       ]
     },
     {
-        "categoryName": "Melhor Filme de Animação",
-        "movies": [
-            {
-                "titlePT": "Flow",
-                "image": "https://image.tmdb.org/t/p/w500/l5irGf3v8sTqvf9N53svIq3Z7Iv.jpg"
-            },
-            {
-                "titlePT": "Divertida Mente 2",
-                "image": "https://image.tmdb.org/t/p/w500/lHKNS35r4RTa9GO72vdadMLxoiV.jpg"
-            },
-            {
-                "titlePT": "Memórias de um Caracol",
-                "image": "https://image.tmdb.org/t/p/w500/zeFRmFslWFp8GqbFfzUgwZb2ufW.jpg"
-            },
-            {
-                "titlePT": "Wallace & Gromit: Avengança",
-                "image": "https://image.tmdb.org/t/p/w500/lD6b0UkdviQw9N3LpSDqAOQKu8i.jpg"
-            },
-            {
-                "titlePT": "Robô Selvagem",
-                "image": "https://image.tmdb.org/t/p/w500/gAHNIZKG8fmK7njOTpMmLKJXiag.jpg"
-            }
-        ]
+       "categoryName": "Melhor Filme de Animação",
+       "movies": [
+          {
+             "titlePT": "Arco",
+             "image": "https://image.tmdb.org/t/p/original/tXyehDTf8UU6bRpEHDzVBU3nZES.jpg"
+          },
+          {
+             "titlePT": "Elio",
+             "image": "https://image.tmdb.org/t/p/original/2H8k54MWPQtsxWkQhR2HVfT34ty.jpg"
+          },
+          {
+             "titlePT": "As Guerreiras do K-Pop",
+             "image": "https://image.tmdb.org/t/p/original/gbdMa7woiuF7IiEB5Spwv5od4oo.jpg"
+          },
+          {
+             "titlePT": "A Pequena Amélie",
+             "image": "https://image.tmdb.org/t/p/original/eAYK2NnOuaRkH8eMYjuzv1DthAT.jpg"
+          },
+          {
+             "titlePT": "Zootopia 2",
+             "image": "https://image.tmdb.org/t/p/original/4acLcG3TFrgZ82qZtrP9ZqJ8QZS.jpg"
+          }
+       ]
     },
     {
-        "categoryName": "Melhor Direção",
-        "movies": [
-            {
-                "titlePT": "Sean Baker - Anora",
-                "image": "https://image.tmdb.org/t/p/w500/xmFdNzbUiT5XmH6rbIVGYDQHGeo.jpg"
-            },
-            {
-                "titlePT": "Brady Corbert - O Brutalista",
-                "image": "https://image.tmdb.org/t/p/w500/tsVRsCGJ4bZG1xWfQkUgt71ystL.jpg"
-            },
-            {
-                "titlePT": "James Mangold - Um Completo Desconhecido",
-                "image": "https://image.tmdb.org/t/p/w500/tXNPJ3XvF4RaEV66Qm9QO3pu3w7.jpg"
-            },
-            {
-                "titlePT": "Jacques Audiard - Emilia Pérez",
-                "image": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg"
-            },
-            {
-                "titlePT": "Coralie Fargeat - A Substância",
-                "image": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg"
-            }
-        ]
+       "categoryName": "Melhor Direção",
+       "movies": [
+          {
+             "titlePT": "Chloé Zhao - Hamnet",
+             "image": "https://image.tmdb.org/t/p/original/4Zmu4uigEtq5qAwJKQZW5e2QhDg.jpg"
+          },
+          {
+             "titlePT": "Josh Safdie - Marty Supreme",
+             "image": "https://image.tmdb.org/t/p/original/bNYM97KLLVoICe3fZt6bKbvXV8d.jpg"
+          },
+          {
+             "titlePT": "Paul Thomas Anderson - Uma Batalha Após a Outra",
+             "image": "https://image.tmdb.org/t/p/original/yuUbVRzMLSlL7OSEEbbIV3bI9Tm.jpg"
+          },
+          {
+             "titlePT": "Joaquim Trier - Valor Sentimental",
+             "image": "https://image.tmdb.org/t/p/original/o5KXJRWbzyGYSxDhXsBqbCiZnqU.jpg"
+          },
+          {
+             "titlePT": "Ryan Coogler - Pecadores",
+             "image": "https://image.tmdb.org/t/p/original/dux4DCDaL6c639DTXGiV7nm1wcN.jpg"
+          }
+       ]
     },
     {
-        "categoryName": "Melhores Efeitos Visuais",
-        "movies": [
-            {
-                "titlePT": "Alien: Romulus",
-                "image": "https://image.tmdb.org/t/p/w500/jB0W9tn4w07MFn7sTfqRTBLVytF.jpg"
-            },
-            {
-                "titlePT": "Better Man",
-                "image": "https://image.tmdb.org/t/p/w500/Ar6BzLWcvXKQJ7iH0FvvH7tqQic.jpg"
-            },
-            {
-                "titlePT": "Duna: Parte 2",
-                "image": "https://image.tmdb.org/t/p/w500/8LJJjLjAzAwXS40S5mx79PJ2jSs.jpg"
-            },
-            {
-                "titlePT": "Planeta dos Macacos: O Reinado",
-                "image": "https://image.tmdb.org/t/p/w500/xncPDbNFr9YnZqaB6Ht9uItaoZO.jpg"
-            },
-            {
-                "titlePT": "Wicked",
-                "image": "https://image.tmdb.org/t/p/w500/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg"
-            }
-        ]
+       "categoryName": "Melhores Efeitos Visuais",
+       "movies": [
+          {
+             "titlePT": "Avatar: Fogo e Cinzas",
+             "image": "https://image.tmdb.org/t/p/original/9k2zKeUfcKkAz1dGt5MP6dZMm4G.jpg"
+          },
+          {
+             "titlePT": "F1 - O Filme",
+             "image": "https://image.tmdb.org/t/p/original/fMcY5hpVZQ0cLKHvFM1mo6GrAr0.jpg"
+          },
+          {
+             "titlePT": "Jurassic World: Recomeço",
+             "image": "https://image.tmdb.org/t/p/original/zuEC2i3I2P7QIcLoUJNBwqRYO4S.jpg"
+          },
+          {
+             "titlePT": "O Ônibus Perdido",
+             "image": "https://image.tmdb.org/t/p/w500/xncPDbNFr9YnZqaB6Ht9uItaoZO.jpg"
+          },
+          {
+             "titlePT": "Pecadores",
+             "image": "https://image.tmdb.org/t/p/original/eElQspcoyIZl6ZyBASiVS8o4V0J.jpg"
+          }
+       ]
     },
     {
-        "categoryName": "Melhor Roteiro Original",
-        "movies": [
-            {
-                "titlePT": "Anora",
-                "image": "https://image.tmdb.org/t/p/w500/xmFdNzbUiT5XmH6rbIVGYDQHGeo.jpg"
-            },
-            {
-                "titlePT": "O Brutalista",
-                "image": "https://image.tmdb.org/t/p/w500/tsVRsCGJ4bZG1xWfQkUgt71ystL.jpg"
-            },
-            {
-                "titlePT": "A Verdadeira Dor",
-                "image": "https://image.tmdb.org/t/p/w500/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg"
-            },
-            {
-                "titlePT": "Setembro 5",
-                "image": "https://image.tmdb.org/t/p/w500/yoydJvO5A6r6rZMbfHgXTZNJogf.jpg"
-            },
-            {
-                "titlePT": "A Substância",
-                "image": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg"
-            }
-        ]
+       "categoryName": "Melhor Roteiro Original",
+       "movies": [
+          {
+             "titlePT": "Blue Moon",
+             "image": "https://image.tmdb.org/t/p/original/9RpNqMynVFX0FdEuYZMcxuVNEBy.jpg"
+          },
+          {
+             "titlePT": "Foi Apenas um Acidente",
+             "image": "https://image.tmdb.org/t/p/original/uFJVkYiiVqaYE3wJYsqE3oWUiLK.jpg"
+          },
+          {
+             "titlePT": "Marty Supreme",
+             "image": "https://image.tmdb.org/t/p/original/oLWBW1Sg9V8KGgbR3Y8jeEWF2Gi.jpg"
+          },
+          {
+             "titlePT": "Valor Sentimental",
+             "image": "https://image.tmdb.org/t/p/original/pTMpLRfB9wUaQ8CEdGEUkyVXwOo.jpg"
+          },
+          {
+             "titlePT": "Pecadores",
+             "image": "https://image.tmdb.org/t/p/original/eElQspcoyIZl6ZyBASiVS8o4V0J.jpg"
+          }
+       ]
     },
     {
-        "categoryName": "Melhor Atriz Coadjuvante",
-        "movies": [
-            {
-                "titlePT": "Monica Barbaro - Um Completo Desconhecido",
-                "image": "https://image.tmdb.org/t/p/w500/hiOYXzSkkuKyCEcjLxBoAc4bLZS.jpg"
-            },
-            {
-                "titlePT": "Ariana Grande - Wicked",
-                "image": "https://image.tmdb.org/t/p/w500/cslFyOh3sTWDeWXgsxmjJ1uqE0P.jpg"
-            },
-            {
-                "titlePT": "Felicity Jones - O Brutalista",
-                "image": "https://image.tmdb.org/t/p/w500/gsrb1CuyAQtTVZILtNA5tRnhHbs.jpg"
-            },
-            {
-                "titlePT": "Isabella Rossellini - Conclave",
-                "image": "https://image.tmdb.org/t/p/w500/z0zojT6nwDxi35HMcXlVpBfuBAU.jpg"
-            },
-            {
-                "titlePT": "Zoe Saldaña - Emilia Pérez",
-                "image": "https://image.tmdb.org/t/p/w500/snQ1rfO9Bb2LRG9MAOQnn3JXVHy.jpg"
-            }
-        ]
+       "categoryName": "Melhor Atriz Coadjuvante",
+       "movies": [
+          {
+             "titlePT": "Elle Fanning - Valor Sentimental",
+             "image": "https://image.tmdb.org/t/p/original/e8CUyxQSE99y5IOfzSLtHC0B0Ch.jpg"
+          },
+          {
+             "titlePT": "Inga Ibsdotter Lilleaas - Valor Sentimental",
+             "image": "https://image.tmdb.org/t/p/original/7wGEfnBniSP15FVorQChfWhAlVi.jpg"
+          },
+          {
+             "titlePT": "Amy Madigan - A Hora do Mal",
+             "image": "https://image.tmdb.org/t/p/original/xgtQOuPAmQZXWUO2PXetNpXm08A.jpg"
+          },
+          {
+             "titlePT": "Wonmi Mosaku - Pecadores",
+             "image": "https://image.tmdb.org/t/p/original/mWDsVCo9sBcekrsjUTsoCFLhtYt.jpg"
+          },
+          {
+             "titlePT": "Teyana Taylor - Uma Batalha Após a Outra",
+             "image": "https://image.tmdb.org/t/p/original/5b2dAuTsBejBsdm9SkWX4F7jG9w.jpg"
+          }
+       ]
     },
     {
-        "categoryName": "Melhor Ator Coadjuvante",
-        "movies": [
-            {
-                "titlePT": "Yura Borisov - Anora",
-                "image": "https://image.tmdb.org/t/p/w500/zLcD2UmXJG6m3qOQhNZs13SQRIp.jpg"
-            },
-            {
-                "titlePT": "Kieran Culkin - A Verdadeira Dor",
-                "image": "https://image.tmdb.org/t/p/w500/b5EC4nziLhBRX4GOcYx2BdS3FTt.jpg"
-            },
-            {
-                "titlePT": "Edward Norton - Um Completo Desconhecido",
-                "image": "https://image.tmdb.org/t/p/w500/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg"
-            },
-            {
-                "titlePT": "Guy Pearce - O Brutalista",
-                "image": "https://image.tmdb.org/t/p/w500/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
-            },
-            {
-                "titlePT": "Jeremy Strong - O Aprendiz",
-                "image": "https://image.tmdb.org/t/p/w500/jcMhXWICSi4QjQttJVhFSiKVvpF.jpg"
-            }
-        ]
+       "categoryName": "Melhor Ator Coadjuvante",
+       "movies": [
+          {
+             "titlePT": "Benicio del Toro - Uma Batalha Após a Outra",
+             "image": "https://image.tmdb.org/t/p/original/hFqwUx8iKXcJoAEUdeFtIdIaD1b.jpg"
+          },
+          {
+             "titlePT": "Jacob Elordi - Frankenstein",
+             "image": "https://image.tmdb.org/t/p/original/qZNRPWCP2c5d0YaYLTzHXU9Rdoe.jpg"
+          },
+          {
+             "titlePT": "Delroy Lindo - Pecadores",
+             "image": "https://image.tmdb.org/t/p/original/kLwUBBmEIdchrLqwsYzgLB2B6q5.jpg"
+          },
+          {
+             "titlePT": "Sean Penn - Uma Batalha Após a Outra",
+             "image": "https://image.tmdb.org/t/p/original/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
+          },
+          {
+             "titlePT": "Stellan Skarsgård - Valor Sentimental",
+             "image": "https://image.tmdb.org/t/p/original/x78BtYHElirO7Iw8bL4m8CnzRDc.jpg"
+          }
+       ]
     },
     {
-        "categoryName": "Melhor Roteiro Adaptado",
-        "movies": [
-            {
-                "titlePT": "Um Completo Desconhecido",
-                "image": "https://image.tmdb.org/t/p/w500/tXNPJ3XvF4RaEV66Qm9QO3pu3w7.jpg"
-            },
-            {
-                "titlePT": "Conclave",
-                "image": "https://image.tmdb.org/t/p/w500/xS5SK7EVPCmsFAOT48rCsJesmkP.jpg"
-            },
-            {
-                "titlePT": "Emilia Pérez",
-                "image": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg"
-            },
-            {
-                "titlePT": "Nickel Boys",
-                "image": "https://image.tmdb.org/t/p/w500/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg"
-            },
-            {
-                "titlePT": "Sing Sing",
-                "image": "https://image.tmdb.org/t/p/w500/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg"
-            }
-        ]
+       "categoryName": "Melhor Roteiro Adaptado",
+       "movies": [
+          {
+             "titlePT": "Bugonia",
+             "image": "https://image.tmdb.org/t/p/original/6OeJbx1QGDwrlL8SPZeLKjLhhA7.jpg"
+          },
+          {
+             "titlePT": "Frankenstein",
+             "image": "https://image.tmdb.org/t/p/original/cXsMxClCcAF1oMwoXZvbKwWoNeS.jpg"
+          },
+          {
+             "titlePT": "Hamnet",
+             "image": "https://image.tmdb.org/t/p/original/njatIGrIlZCxB88UUBC2xgmfCNE.jpg"
+          },
+          {
+             "titlePT": "Uma Batalha Após a Outra",
+             "image": "https://image.tmdb.org/t/p/original/a1a2JYoBTchMy1stqpSHxS5MMle.jpg"
+          },
+          {
+             "titlePT": "Sonhos de Trem",
+             "image": "https://image.tmdb.org/t/p/original/iF1SxvdSNWkEfKlZnLzJbSsg4oT.jpg"
+          }
+       ]
     },
     {
-        "categoryName": "Melhor Trilha Sonora Original",
-        "movies": [
-            {
-                "titlePT": "O Brutalista",
-                "image": "https://image.tmdb.org/t/p/w500/tsVRsCGJ4bZG1xWfQkUgt71ystL.jpg"
-            },
-            {
-                "titlePT": "Conclave",
-                "image": "https://image.tmdb.org/t/p/w500/xS5SK7EVPCmsFAOT48rCsJesmkP.jpg"
-            },
-            {
-                "titlePT": "Emilia Pérez",
-                "image": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg"
-            },
-            {
-                "titlePT": "Wicked",
-                "image": "https://image.tmdb.org/t/p/w500/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg"
-            },
-            {
-                "titlePT": "Robô Selvagem",
-                "image": "https://image.tmdb.org/t/p/w500/gAHNIZKG8fmK7njOTpMmLKJXiag.jpg"
-            }
-        ]
+       "categoryName": "Melhor Trilha Sonora Original",
+       "movies": [
+          {
+             "titlePT": "Bugonia",
+             "image": "https://image.tmdb.org/t/p/original/6OeJbx1QGDwrlL8SPZeLKjLhhA7.jpg"
+          },
+          {
+             "titlePT": "Frankenstein",
+             "image": "https://image.tmdb.org/t/p/original/cXsMxClCcAF1oMwoXZvbKwWoNeS.jpg"
+          },
+          {
+             "titlePT": "Hamnet",
+             "image": "https://image.tmdb.org/t/p/original/njatIGrIlZCxB88UUBC2xgmfCNE.jpg"
+          },
+          {
+            "titlePT": "Uma Batalha Após a Outra",
+             "image": "https://image.tmdb.org/t/p/original/a1a2JYoBTchMy1stqpSHxS5MMle.jpg"
+          },
+          {
+             "titlePT": "Pecadores",
+             "image": "https://image.tmdb.org/t/p/original/eElQspcoyIZl6ZyBASiVS8o4V0J.jpg"
+          }
+       ]
     },
     {
-        "categoryName": "Melhor Fotografia",
-        "movies": [
-            {
-                "titlePT": "O Brutalista",
-                "image": "https://image.tmdb.org/t/p/w500/tsVRsCGJ4bZG1xWfQkUgt71ystL.jpg"
-            },
-            {
-                "titlePT": "Duna: Parte 2",
-                "image": "https://image.tmdb.org/t/p/w500/8LJJjLjAzAwXS40S5mx79PJ2jSs.jpg"
-            },
-            {
-                "titlePT": "Emilia Pérez",
-                "image": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg"
-            },
-            {
-                "titlePT": "Maria",
-                "image": "https://image.tmdb.org/t/p/w500/bvwkLv20GrNIU7WSjCcpJVKxFUc.jpg"
-            },
-            {
-                "titlePT": "Nosferatu",
-                "image": "https://image.tmdb.org/t/p/w500/sLv83G0JWXAGNq0bEawvhHVCT3n.jpg"
-            }
-        ]
+       "categoryName": "Melhor Fotografia",
+       "movies": [
+          {
+             "titlePT": "Frankenstein",
+             "image": "https://image.tmdb.org/t/p/original/cXsMxClCcAF1oMwoXZvbKwWoNeS.jpg"
+          },
+          {
+             "titlePT": "Marty Supreme",
+             "image": "https://image.tmdb.org/t/p/original/oLWBW1Sg9V8KGgbR3Y8jeEWF2Gi.jpg"
+          },
+          {
+             "titlePT": "Uma Batalha Após a Outra",
+             "image": "https://image.tmdb.org/t/p/original/a1a2JYoBTchMy1stqpSHxS5MMle.jpg"
+          },
+          {
+             "titlePT": "Pecadores",
+             "image": "https://image.tmdb.org/t/p/original/eElQspcoyIZl6ZyBASiVS8o4V0J.jpg"
+          },
+          {
+             "titlePT": "Sonhos de Trem",
+             "image": "https://image.tmdb.org/t/p/original/iF1SxvdSNWkEfKlZnLzJbSsg4oT.jpg"
+          }
+       ]
     },
     {
-        "categoryName": "Melhor Maquiagem e Penteados",
-        "movies": [
-            {
-                "titlePT": "Um Homem Diferente",
-                "image": "https://image.tmdb.org/t/p/w500/6hhLlgqGTa7La186TEaK7vhpgAA.jpg"
-            },
-            {
-                "titlePT": "Emilia Pérez",
-                "image": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg"
-            },
-            {
-                "titlePT": "Nosferatu",
-                "image": "https://image.tmdb.org/t/p/w500/sLv83G0JWXAGNq0bEawvhHVCT3n.jpg"
-            },
-            {
-                "titlePT": "A Substância",
-                "image": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg"
-            },
-            {
-                "titlePT": "Wicked",
-                "image": "https://image.tmdb.org/t/p/w500/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg"
-            }
-        ]
+       "categoryName": "Melhor Cabelo e Maquiagem",
+       "movies": [
+          {
+             "titlePT": "Frankenstein",
+             "image": "https://image.tmdb.org/t/p/original/cXsMxClCcAF1oMwoXZvbKwWoNeS.jpg"
+          },
+          {
+             "titlePT": "Kokuho",
+             "image": "https://image.tmdb.org/t/p/original/egDmNUBcSvu6aqQPCfyd1UneCYr.jpg"
+          },
+          {
+             "titlePT": "Pecadores",
+             "image": "https://image.tmdb.org/t/p/original/eElQspcoyIZl6ZyBASiVS8o4V0J.jpg"
+          },
+          {
+             "titlePT": "Coração de Lutador: The Smashing Machine",
+             "image": "https://image.tmdb.org/t/p/original/eTL21IzXn7BHB0jsMe9xPgMHfHE.jpg"
+          },
+          {
+             "titlePT": "A Meia-Irmã Feia",
+             "image": "https://image.tmdb.org/t/p/original/2dEoQ2eWk3evQQBNUxPnZsPDq1N.jpg"
+          }
+       ]
     },
     {
-        "categoryName": "Melhor Direção de Arte",
-        "movies": [
-            {
-                "titlePT": "O Brutalista",
-                "image": "https://image.tmdb.org/t/p/w500/tsVRsCGJ4bZG1xWfQkUgt71ystL.jpg"
-            },
-            {
-                "titlePT": "Conclave",
-                "image": "https://image.tmdb.org/t/p/w500/xS5SK7EVPCmsFAOT48rCsJesmkP.jpg"
-            },
-            {
-                "titlePT": "Duna: Parte 2",
-                "image": "https://image.tmdb.org/t/p/w500/8LJJjLjAzAwXS40S5mx79PJ2jSs.jpg"
-            },
-            {
-                "titlePT": "Nosferatu",
-                "image": "https://image.tmdb.org/t/p/w500/sLv83G0JWXAGNq0bEawvhHVCT3n.jpg"
-            },
-            {
-                "titlePT": "Wicked",
-                "image": "https://image.tmdb.org/t/p/w500/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg"
-            }
-        ]
+       "categoryName": "Melhor Direção de Arte",
+       "movies": [
+          {
+             "titlePT": "Frankenstein",
+             "image": "https://image.tmdb.org/t/p/original/cXsMxClCcAF1oMwoXZvbKwWoNeS.jpg"
+          },
+          {
+             "titlePT": "Hamnet",
+             "image": "https://image.tmdb.org/t/p/original/njatIGrIlZCxB88UUBC2xgmfCNE.jpg"
+          },
+          {
+             "titlePT": "Marty Supreme",
+             "image": "https://image.tmdb.org/t/p/original/oLWBW1Sg9V8KGgbR3Y8jeEWF2Gi.jpg"
+          },
+          {
+             "titlePT": "Uma Batalha Após a Outra",
+             "image": "https://image.tmdb.org/t/p/original/a1a2JYoBTchMy1stqpSHxS5MMle.jpg"
+          },
+          {
+             "titlePT": "Pecadores",
+             "image": "https://image.tmdb.org/t/p/original/eElQspcoyIZl6ZyBASiVS8o4V0J.jpg"
+          }
+       ]
     },
     {
-        "categoryName": "Melhor Montagem",
-        "movies": [
-            {
-                "titlePT": "Anora",
-                "image": "https://image.tmdb.org/t/p/w500/xmFdNzbUiT5XmH6rbIVGYDQHGeo.jpg"
-            },
-            {
-                "titlePT": "O Brutalista",
-                "image": "https://image.tmdb.org/t/p/w500/tsVRsCGJ4bZG1xWfQkUgt71ystL.jpg"
-            },
-            {
-                "titlePT": "Conclave",
-                "image": "https://image.tmdb.org/t/p/w500/xS5SK7EVPCmsFAOT48rCsJesmkP.jpg"
-            },
-            {
-                "titlePT": "Emilia Pérez",
-                "image": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg"
-            },
-            {
-                "titlePT": "Wicked",
-                "image": "https://image.tmdb.org/t/p/w500/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg"
-            }
-        ]
+       "categoryName": "Melhor Montagem",
+       "movies": [
+          {
+             "titlePT": "F1 - O Filme",
+             "image": "https://image.tmdb.org/t/p/original/fMcY5hpVZQ0cLKHvFM1mo6GrAr0.jpg"
+          },
+          {
+             "titlePT": "Marty Supreme",
+             "image": "https://image.tmdb.org/t/p/original/oLWBW1Sg9V8KGgbR3Y8jeEWF2Gi.jpg"
+          },
+          {
+             "titlePT": "Uma Batalha Após a Outra",
+             "image": "https://image.tmdb.org/t/p/original/a1a2JYoBTchMy1stqpSHxS5MMle.jpg"
+          },
+          {
+             "titlePT": "Valor Sentimental",
+             "image": "https://image.tmdb.org/t/p/original/pTMpLRfB9wUaQ8CEdGEUkyVXwOo.jpg"
+          },
+          {
+             "titlePT": "Pecadores",
+             "image": "https://image.tmdb.org/t/p/original/eElQspcoyIZl6ZyBASiVS8o4V0J.jpg"
+          }
+       ]
     },
     {
-        "categoryName": "Melhor Figurino",
-        "movies": [
-            {
-                "titlePT": "Um Completo Desconhecido",
-                "image": "https://image.tmdb.org/t/p/w500/tXNPJ3XvF4RaEV66Qm9QO3pu3w7.jpg"
-            },
-            {
-                "titlePT": "Conclave",
-                "image": "https://image.tmdb.org/t/p/w500/xS5SK7EVPCmsFAOT48rCsJesmkP.jpg"
-            },
-            {
-                "titlePT": "Gladiador 2",
-                "image": "https://image.tmdb.org/t/p/w500/342bly9MqveL65TnEFzx8TTUxcL.jpg"
-            },
-            {
-                "titlePT": "Nosferatu",
-                "image": "https://image.tmdb.org/t/p/w500/sLv83G0JWXAGNq0bEawvhHVCT3n.jpg"
-            },
-            {
-                "titlePT": "Wicked",
-                "image": "https://image.tmdb.org/t/p/w500/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg"
-            }
-        ]
+       "categoryName": "Melhor Figurino",
+       "movies": [
+          {
+             "titlePT": "Avatar: Fogo e Cinzas",
+             "image": "https://image.tmdb.org/t/p/original/9k2zKeUfcKkAz1dGt5MP6dZMm4G.jpg"
+          },
+          {
+             "titlePT": "Frankenstein",
+             "image": "https://image.tmdb.org/t/p/original/cXsMxClCcAF1oMwoXZvbKwWoNeS.jpg"
+          },
+          {
+             "titlePT": "Hamnet",
+             "image": "https://image.tmdb.org/t/p/original/njatIGrIlZCxB88UUBC2xgmfCNE.jpg"
+          },
+          {
+             "titlePT": "Marty Supreme",
+             "image": "https://image.tmdb.org/t/p/original/oLWBW1Sg9V8KGgbR3Y8jeEWF2Gi.jpg"
+          },
+          {
+             "titlePT": "Pecadores",
+             "image": "https://image.tmdb.org/t/p/original/eElQspcoyIZl6ZyBASiVS8o4V0J.jpg"
+          }
+       ]
     },
     {
-        "categoryName": "Melhor Som",
-        "movies": [
-            {
-                "titlePT": "Um Completo Desconhecido",
-                "image": "https://image.tmdb.org/t/p/w500/tXNPJ3XvF4RaEV66Qm9QO3pu3w7.jpg"
-            },
-            {
-                "titlePT": "Duna: Parte 2",
-                "image": "https://image.tmdb.org/t/p/w500/8LJJjLjAzAwXS40S5mx79PJ2jSs.jpg"
-            },
-            {
-                "titlePT": "Emilia Pérez",
-                "image": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg"
-            },
-            {
-                "titlePT": "Wicked",
-                "image": "https://image.tmdb.org/t/p/w500/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg"
-            },
-            {
-                "titlePT": "Robô Selvagem",
-                "image": "https://image.tmdb.org/t/p/w500/gAHNIZKG8fmK7njOTpMmLKJXiag.jpg"
-            }
-        ]
+       "categoryName": "Melhor Som",
+       "movies": [
+          {
+             "titlePT": "F1 - O Filme",
+             "image": "https://image.tmdb.org/t/p/original/fMcY5hpVZQ0cLKHvFM1mo6GrAr0.jpg"
+          },
+          {
+             "titlePT": "Frankenstein",
+             "image": "https://image.tmdb.org/t/p/original/cXsMxClCcAF1oMwoXZvbKwWoNeS.jpg"
+          },
+          {
+             "titlePT": "Uma Batalha Após a Outra",
+             "image": "https://image.tmdb.org/t/p/original/a1a2JYoBTchMy1stqpSHxS5MMle.jpg"
+          },
+          {
+             "titlePT": "Pecadores",
+             "image": "https://image.tmdb.org/t/p/original/eElQspcoyIZl6ZyBASiVS8o4V0J.jpg"
+          },
+          {
+             "titlePT": "Sirāt",
+             "image": "https://image.tmdb.org/t/p/original/zXB71lnNiNPoOwLHjkCtsV7gng3.jpg"
+          }
+       ]
+    },
+    {
+       "categoryName": "Melhor Direção de Elenco",
+       "movies": [
+          {
+             "titlePT": "Hamnet",
+             "image": "https://image.tmdb.org/t/p/original/njatIGrIlZCxB88UUBC2xgmfCNE.jpg"
+          },
+          {
+             "titlePT": "Marty Supreme",
+             "image": "https://image.tmdb.org/t/p/original/oLWBW1Sg9V8KGgbR3Y8jeEWF2Gi.jpg"
+          },
+          {
+             "titlePT": "Uma Batalha Após a Outra",
+             "image": "https://image.tmdb.org/t/p/original/a1a2JYoBTchMy1stqpSHxS5MMle.jpg"
+          },
+          {
+             "titlePT": "Pecadores",
+             "image": "https://image.tmdb.org/t/p/original/eElQspcoyIZl6ZyBASiVS8o4V0J.jpg"
+          },
+          {
+             "titlePT": "O Agente Secreto",
+             "image": "https://image.tmdb.org/t/p/original/t1DQ4XXIqTm5LvUjz8jypN43JjZ.jpg"
+          }
+       ]
     }
-]
+ ]
